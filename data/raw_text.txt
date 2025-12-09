@@ -1,0 +1,1526 @@
+e-ISSN: 2580-1163 (Online)
+p-ISSN: 2580-9776 (Print) 220
+A ndini and Agestika, et al | Amerta Nutrition Vol. 6 Issue 1SP (December 2022). 220-225
+RESEARCH STUDY OPEN ACCESS
+E fektivitas Edukasi Gizi Berbasis Digital Melalui Peer-group dalam
+Pencegahan Anemia pada Remaja Putri
+The Effectiveness of Digital-Based Nutrition Education through Peer-group to
+P revent Anemia among Adolescent
+F atima Rima Andini1, Lina Agestika1*
+1Program Studi Gizi, Fakultas Ilmu Kesehatan dan Teknologi, Universitas Binawan, Jakarta Timur, Indonesia
+ABSTRAK
+ARTICLE INFO Latar Belakang: Anemia remaja menjadi salah satu masalah kesehatan global yang
+krusial, termasuk di Indonesia. Prevalensinya mencapai 32% merupakan masalah
+Received: 15-10-2022 kesehatan masyarakat kategori berat. Pemberian Tablet Tambah Darah mejadi kurang
+Accepted: 29-11-2022 efektif, ketika remaja tidak patuh mengkonsumsinya. Remaja mudah terpapar
+Published online: 23-12-2022 komunikasi berbasis digital melalui Whatssapp dan video conference. Metode
+komunikasi peer group dinilai efektif sebagai upaya inovasi pengentasan anemia di
+kalangan remaja. Namun, efektifitasnya melalui komunikasi jarak jauh perlu dianalisis.
+*Correspondent:
+Tujuan: Penelitian ini bertujuan untuk mengidentifikasi efektivitas edukasi gizi peer-
+Lina Agestika
+group berbasis digital melalui Whatsapp group dan video conference terhadap
+lina.agestika@binawan.ac.id
+pengetahuan, sikap dan kepatuhan konsumsi tablet Fe pada remaja putri.
+Metode: Penelitian ini menggunakan metode kuasi eksperimen dengan desain non-
+DOI:
+randomized pre-test dan post-test control group di 2 SMP Kecamatan Arjawinangun,
+10.20473/amnt.v6i1SP.2022.220-
+Cirebon sebanyak 70 responden (perlakuan n=35, kontrol n=35). Metode pengumpulan
+225
+data yang digunakan yaitu observasi, wawancara dan kuesioner dengan analisis data
+statistik menggunakan Uji Chi-Square dan Uji Wilcoxon. Educator sebaya memperoleh
+Available online at:
+pelatihan selama 4 minggu dari peneliti secara daring, kemudian edukasi gizi anemia
+https://e-
+dan tablet tambah darah melalui peer-group selama 3 minggu di group whatsapp serta
+journal.unair.ac.id/AMNT
+suplementasi Fe.
+Hasil: Hasil penelitian menunjukkan adanya perbedaan rata-rata skor pengetahuan
+Keywords:
+remaja (p = 0,001; nilai rerata: 21,7) dan kepatuhan konsumsi tablet penambah darah
+Intervensi, Peer-group, Anemia,
+(p = 0,008; nilai rerata: 0,2) pada kelompok intervensi. Namun, tidak ada perbedaan
+Pengetahuan, Kepatuhan
+antara kelompok kontrol dan intervensi pada skor pengetahuan (p=0,127), sikap (nilai
+varians konstan), dan kepatuhan (p=0,306).
+Kesimpulan: Edukasi melalui peer-group dapat lebih efektif untuk mencegah anemia
+remaja bila dilakukan lebih dari 1 bulan.
+ABSTRACT
+Background: Anemia among adolescents is a global health problem, including Indonesia. The prevalence of 32% made
+anemia a severe public health problem. Giving Blood-Boost Tablets becomes less effective when adolescents do not consume
+them regularly. Adolescents are easily exposed to digital-based communication through WhatsApp and video conferencing.
+The peer group communication method is considered effective as an innovative effort to reduce anemia among adolescents.
+However, its effectiveness through long-distance communication needs to be analyzed.
+Objectives: This study aims to identify the effectiveness of digital-based peer-group nutrition education through Whatsapp
+groups and video conferencing on the knowledge, attitudes, and compliance to Fe consumption among adolescent girls.
+Methods: This is quasi-experimental study with non-randomized pre-test and post-test control group design in 2 SMP
+Arjawinangun District, Cirebon involving 70 respondents (treatment n=35, control n=35). Data collection was through
+observation, interviews, and questionnaires. Statistical analysis used the Chi-Square Test and Wilcoxon Test. Peer educators
+receive training for 4 weeks from authors online, then education on anemia nutrition and blood-boosting tablets through
+peer groups for 3 weeks in the WhatsApp group and fe supplementation.
+Results: The results showed a difference in adolescent knowledge (p = 0,001; mean value: 21,7) and compliance with blood-
+boosting tablet consumption (p = 0,008; mean value: 0,2) among the intervention group. However, there is no difference
+between the control and intervention groups on knowledge (p=0.127), attitudes (constant variance value), and compliance
+(p=0.306).
+Conclusions: Education through peer groups could be more effective to prevent adolescent anemia when conducted for more
+than 1 month.
+Copyright ©2022
+Faculty of Public Health Universitas Airlangga
+Open access under a CC BY – SA license
+Joinly Published by IAGIKMI & Universitas Airlangga
+
+e-ISSN: 2580-1163 (Online)
+p-ISSN: 2580-9776 (Print) 221
+A ndini and Agestika, et al | Amerta Nutrition Vol. 6 Issue 1SP (December 2022). 220-225
+Keywords: Intervention, Peer-group, Anemia, Knowledge, Compliance
+PENDAHULUAN terindikasi implikasinya pada program intervensi yang
+Anemia remaja terklasifikasi sebagai masalah belum optimal. Oleh karena itu tujuan penelitian ini
+kesehatan masyarakat secara global maupun untuk mengidentifikasi bagaimana efektivitas edukasi gizi
+nasional1,2,3. World Health Organization (WHO) mencatat melalui peer-group dengan pemanfaatan mobile digital
+33% wanita usia produktif tidak hamil mengalami anemia berupa whatsapp untuk edukasi secara daring terhadap
+dan prevalensi tertinggi adalah di Asia serta Afrika4. peningkatan pengetahuan, sikap dan kepatuhan
+Prevalensi di Indonesia mencapai 32% tahun 2018 konsumsi Fe remaja putri di sekolah.
+sementara wilayah Provinsi Jawa Barat hasil baseline
+survey Nutrition International tahun 2021 tercatat METODE
+41,39% remaja putri mengalami anemia2,3. Jenis penelitian ini merupakan penelitian
+Penanggulangan anemia remaja difokuskan eksperimen semu dengan rancangan desain non-
+pada anemia gizi besi yaitu melalui intervensi spesifik randomized pre-test and post-test control group,
+(sektor kesehatan) dan sensitif (sektor non-kesehatan)4, dilakukan di SMPN 1, MTS N 3 Arjawinangun, Kabupaten
+namun program yang ada belum berjalan dengan Cirebon Jawa Barat yang masuk wilayah kerja UPTD
+optimal2,3. Intervensi spesifik berupa program Puskesmas Tegalgubug Kecamatan Arjawinangun pada
+suplementasi Fe baru mencapai 21% yang sesuai standar bulan Mei sampai bulan Juni 2022 selama 7 minggu (4
+pemberian dan 5% yang patuh dikonsumsi remaja putri 2. minggu intervensi educator, 3 minggu intervensi peer-
+Dalam evaluasi keberhasilan program, pemerintah group secara daring dan menggunakan digital media
+dengan sektor-sektor terkait bekerja sama melalui whatsapp). Populasi dalam penelitian ini adalah remaja
+penguatan manajemen dan pelaksanaan program putri di SMP wilayah kerja yang sudah mengikuti program
+suplementasi Fe serta pendidikan edukasi kesehatan bagi skrining Hb. Sampel yang diambil menggunakan
+remaja putri3. purposive sampling sehingga tujuan eksperimen dapat
+Beragam intervensi melalui penelitian tercapai16. Perhitungan sampel menggunakan
+menunjukan signifikansi keberhasilan pengentasan perhitungan rumus Lemeshow at. Al. (1997) 16 masing-
+anemia melalui intervensi gabungan secara bersamaan masing sejumlah 35 siswi untuk kelompok perlakuan dan
+antara suplementasi distribusi Fe diikuti edukasi praktek kontrol, dengan perbandingan efektif jumlah educator
+pemberian dapat meningkatkan pengetahuan, sikap dan dan sampling 1:514 maka jumlah peer-educator sebanyak
+kepatuhan dalam mengkonsumsi Fe serta status 7 siswi. Kriteria inklusi untuk peer-group bersedia
+Hemoglobin (Hb)1,5,6,7,8,9,10. Suplementasi yang menjadi peer-educator usia 13-15 tahun, sudah
+distimulasi dengan edukasi dapat berupa penyuluhan, mengikuti program skrining Hb, tidak anemia, tidak
+konseling, focus group disccusion (FGD) dan berbagai menjalani diet tertentu, skrining pengetahuan baik (skor
+media penunjang, namun salah satu strategi metode pre-test katagori baik), dan untuk kriteria responden
+yang efektif pada kalangan remaja yaitu melalui metode yaitu sudah mengikuti program skrining Hb, memiliki
+edukasi peer-group atau pendidikan kelompok homogenitas yang sama dari skrining pengetahuan, sikap
+sebaya1,5,11,12. Peer-group memiliki peran penting dan kepatuhan konsumsi Fe dari skrining pendahuluan,
+terhadap individu berkaitan dengan sikap, pembicaraan, dan kriteria eksklusi yang tidak memenuhi kriteria
+minat, penampilan dan perilaku, remaja seringkali tersebut, mengalami penyakit kronis seperti DM, genetic
+meniru role-model atau trend yang ada dikalangan anemia disorder talasemia. Persetujuan penelitian dari
+sebayanya. Peer-group menjadi wadah remaja komisi etik Universitas Muhammadiyah Jakarta nomor
+memperoleh informasi yang tidak diperoleh baik dari 10.526.B/KEPK-FKMUMJ/VI/2022.
+lingkungan keluarga maupun sekolah, peer-group dapat Pengambilan data menggunakan kueisoner
+mengarahkan individu menuju perilaku yang baik serta terstruktur dengan cara pengisian kuesioner online untuk
+memberikan masukan atau saran dalam koreksi variabel pengetahuan, sikap dan kepatuhan konsumsi Fe.
+kekurangan yang dimiliki13,14. Pada variabel tingkat pengetahuan sampel mengisi
+Hasil penelitian terdahulu menunjukan kuesioner pengetahuan kemudian diberikan skor 1 jika
+pengaruh signifikan dari suplementasi tablet Fe seminggu benar, 0 jika salah. Untuk variabel sikap sampel mengisi
+satu kali dipadukan dengan promosi kesehatan dari kader kuesioner tertutup setuju atau tidak setuju serta untuk
+atau duta siswa yang memberikan edukasi peer kepada variabel kepatuhan konsumsi Fe dengan mengisi
+teman sebayanya dapat meningkatkan pengetahuan, kuesioner pemantuan minum tablet jika rutin minum
+sikap dan keterampilan dalam pencegahan anemia1,12,15. diberikan skor 1 dan tidak rutin 0. Edukasi peer group
+Penelitian lain menunjukan adanya pengaruh pendidikan menggunakan media edukasi video Promosi Kesehatan,
+sebaya (peer education) terhadap peningkatan kadar Hb Tiktok, Leaflet, Slide Power Point, Poster. Karakteristik
+remaja yang anemia sebesar 2,3 g/dL9. responden berupa umur, status anemia, latar belakang
+Belum adanya penelitian terkait peer-group pendidikan dan penghasilan orang tua diperoleh melalui
+sebagai inovasi pencegahan anemia dengan kuesioner online, serta data pendukung seperti riwayat
+pemanfaatan digital melalui teknologi yang masif kepatuhan responden dalam konsumsi Fe melalui
+digunakan kalangan remaja seperti whatsapp sehingga interview online. Kemudian data variabel Tingkat
+ditujukan pada penelitian ini pada wilayah Kabupaten Pengetahuan dikatagorikan menjadi kurang (<80%) ; baik
+Cirebon yang menjadi salah satu daerah Provinsi Jawa ≥80% (Ridwan, 2010), Sikap menjadi negatif (<50%
+Barat dengan prevalensi anemia yang tinggi (32,7%) proporsi jawaban persepsi sampel dalam pemilihan sikap
+Copyright ©2022
+Faculty of Public Health Universitas Airlangga
+Open access under a CC BY – SA license
+Joinly Published by IAGIKMI & Universitas Airlangga
+
+e-ISSN: 2580-1163 (Online)
+p-ISSN: 2580-9776 (Print) 222
+A ndini and Agestika, et al | Amerta Nutrition Vol. 6 Issue 1SP (December 2022). 220-225
+yang benar); positif ≥50% proporsi jawaban persepsi (91%), latar belakang pendidikan orang tua pada tingkat
+sampel dalam pemilihan sikap yang benar (Surjatini, R sekolah menengah atas (31%) dan 56% pendapatan
+dan Saragih, H, 2019), dan tingkat kepatuhan orang tua kurang dari UMK (<2,2jt). Secara umum
+dikatagorikan menjadi tidak patuh mengkonsumsi selama proporsi tingkat pengetahuan responden pada saat awal
+masa intervensi (<3 butir Fe); patuh (3 butir Fe). Hasil penelitian dikedua kelompok cenderung masih kurang
+penelitian dianalisis secara statistik menggunakan Uji (perlakuan 86%; kontrol 91%), partisipan memiliki
+Wilcoxon dan Uji Chi-Squre. proporsi sikap yang sudah positif (perlakuan 97%; kontrol
+100%) namun rata-rata tidak patuh konsumsi Fe
+HASIL DAN PEMBAHASAN (perlakuan 100% ; kontrol 91%) pada tabel 1.
+Karakteristik partisipan remaja putri pada
+penelitian rata-rata berusia 14 tahun (64%), tidak anemia
+Tabel 1. Karakteristik responden sebelum intervensi
+Variabel Perlakuan Kontrol
+n % N %
+Pengetahuan
+Kurang 30 86 32 91
+Baik 5 14 3 9
+Sikap
+negatif 1 3 0 0
+positif 34 97 35 10
+Kepatuhan
+Tidak Patuh 35 100 34 97
+Patuh 0 0 1 3
+Pada awal penelitian sebelum diberikan dihabiskannya tablet Fe paling banyak karena lupa (30%),
+intervensi, remaja putri dengan karakteristik mual dan muntah (29%), malas mengonsumsi Fe (20%)
+pengetahuan kurang, sikap negatif dan tidak patuh dan lainnya (19%), hasil ini sejalan dengan survei
+konsumsi Fe sebanyak 62 siswi (88,57%) dengan catatan kesehatan nasional tahun 2018 alasan tidak diminumnya
+untuk sikap dikedua kelompok rata-rata sudah positif. Fe antara lain karena lupa, ada efek samping seperti mual
+Hasil yang sama ditunjukan dari penelitian sebelumnya atau muntah, rasa tablet yang tidak enak, dan hanya
+bahwa pengetahuan remaja terkait anemia gizi besi diminum ketika haid2.
+masih kurang dan perlu ditingkatkan karena rendahnya Hasil penelitian dalam mengidentifikasi
+sumber-sumber pemberian edukasi di sekolah maupun di efektivitas pemberian edukasi melalui peer-group setelah
+rumah1,5, namun hasil yang berbeda ditunjukan pada intervensi didapatkan hasil adanya perbedaan nilai rata-
+penelitian di Bengkulu17 yang memaparkan pengetahuan rata yang signifikan pada variabel pengetahuan dan
+remaja putri tentang gizi dan anemia sudah baik. Analisis kepatuhan (tabel 2) sehingga dilakukan analisis uji
+pada sikap remaja putri hampir semua sudah positif hubungan antara intervensi terhadap variabel yang
+sebelum diberikan intervensi, sehingga baik kelompok diteliti. Identifikasi hubungan intervensi terhadap
+yang diberi perlakuan ataupun kontrol sudah memiliki variabel yang diteliti disajikan dari kelompok perlakuan
+sikap positif. Pada karakteristik kepatuhan konsumsi Fe dan kontrol sebelum dan sesudah intervensi peer- group
+pada remaja putri hampir semua tidak patuh dari data pada (tabel 3).
+pendukung hasil interview menunjukan alasan tidak
+Tabel 2. Perbedaan tingkat pengetahuan, sikap dan kepatuhan sebelum dan setelah intervensi peer-group pada kelompok
+perlakuan dan kontrol
+Mean ± SD
+Variabel p-value*
+Pre Test Post Test
+Perlakuan
+Pengetahuan 123,14 ± 31,88 144,86 ± 31,00 0,001
+Sikap 13,74 ± 2,47 14,17 ± 1,50 0,609
+Kepatuhan 0,00 ± 0,00 0,20 ± 0,40 0,008
+Kontrol
+Pengetahuan 110,29 ± 41,33 122,29 ± 36,54 0,002
+Sikap 13,74 ± 2,07 13,63 ± 1,91 0,643
+Kepatuhan 0,03 ± 0,16 0,09 ± 0,28 0,157
+*p-value untuk Uji Wilcoxon
+Copyright ©2022
+Faculty of Public Health Universitas Airlangga
+Open access under a CC BY – SA license
+Joinly Published by IAGIKMI & Universitas Airlangga
+
+e-ISSN: 2580-1163 (Online)
+p-ISSN: 2580-9776 (Print) 223
+A ndini and Agestika, et al | Amerta Nutrition Vol. 6 Issue 1SP (December 2022). 220-225
+Berdasarkan hasil analisis uji statistik Wilxocon dari proses peer-group itu sendiri, dalam proses penilaian
+tabel 2 terdapat perbedaan rata-rata skor pengetahuan teman sebaya dapat memberikan umpan balik atau
+serta kepatuahan sebelum dan sesudah intervensi pada komentar pada kinerja temannya sehingga dapat terjadi
+kelompok perlakuan ditunjukan dengan peningkatan nilai komunikasi satu sama lain tentang informasi yang
+yang signifikan (grafik 2) pada pengetahuan sebesar 21,7 sepadan walaupun tidak diedukasi12. Kemungkinan lain
+poin (p=0,001) dan kepatuhan sebesar 0,2 (p=0,008) dapat terjadi karena sudah diberikan pertanyaan serupa,
+kecuali untuk variabel sikap tidak ada perbedaan skor remaja cenderung mencari jawaban dari pertanyaan yang
+yang signifikan (p=0,609) dapat dikaitkan dari diberikan, sehingga ketika diberikan pertanyaan yang
+karakteristik variabel sikap awal responden sudah positif, sama dapat lebih mahir dalam pengisian soal. Namun
+serta pada kelompok kontrol menunjukan hasil tidak ada berbeda dengan kepatuhan yang tidak meningkat,
+perbedaan rata-rata skor sikap dan kepatuhan namun menunjukan bahwa intervensi dapat merubah tingkat
+terdapat temuan lain bahwa ada perbedaan rata-rata kepatuhan.
+skor pada variabel pengetahuan, hal ini dapat dikarena
+Kepatuhan
+Sikap
+Pengetahuan
+0 50 100 150 200
+Pengetahuan Sikap Kepatuhan
+Pre-Intervention2 123.14 13.74 0
+Post-Intervention 144.86 14.17 0.2
+Grafik 1. Peningkatan rata-rata skor pengetahun,sikap dan kepatuhan
+Setelah diuji statistik menunjukan hasil di sekolah belum efektif untuk siswi dalam peningkatan
+perbedaan nilai rata-rata yang signifikan maka dilakukan pengetahun, sikap dan pengetahuan. Hasil ini tidak
+analisis hubungan intervensi dengan variabel yang sejalan dengan beberapa penelitian sebelumnya bahwa
+diteliti, berdasarkan tabel 3 pada hasil uji statistik Chi- pendidikan teman sebaya dapat meningkatkan
+Suare dapat diketahui tidak ada pengaruh antara pengetahuan, sikap dan perilaku atau kepatuhan remaja
+hubungan pemberian edukasi peer- group terhadap dengan intervensi serupa berupa edukasi melalui peer-
+pengetahuan, sikap dan kepatuhan tentang anemia dan group dan suplementasi Fe dalam durasi 2-8 bulan
+tablet Fe, signifikasi nilai p-value >0,05. Hasil penelitian namun disampaikan secara luring5,12,18.
+menunjukan bahwa pada penelitian edukasi peer-group
+Tabel 3. Hubungan intervensi edukasi peer-group terhadap tingkat kepatuhan pada remaja putri
+Variabel Pre-Intervention p-value Post-Intervention p-value
+Kurang Baik Kurang Baik
+Pengetahuan
+n (%) n (%) n (%) n (%)
+Perlakuan 30 (85,71) 5 (14,29) 20 (57,14 15 (42,86)
+0,710 0,127
+Kontrol 32 (91,43) 3 (8,57) 27 (77,14) 8 (22,86)
+Negatif Positif Negatif Positif
+Sikap n (%) n (%) n (%) n (%)
+Perlakuan 4 (11,42) 31 (88,58) 0 (0%) 35 (100%)
+0,114 -
+Kontrol 35 (100) 0 (0%) 35 (100%)
+0 (0)
+Tidak Patuh Tidak Patuh
+Kepatuhan
+Patuh n (%) Patuh
+n (%)
+n (%) n (%)
+Perlakuan 35 (100) 0 (0) 28 (80) 7 (20)
+Kontrol 34 (97,15) 1 (2,85) 1 32 (91,43) 3 (8,57) 0,306
+*p-value untuk Uji Chi-Square (Fisher’s Exact)
+Copyright ©2022
+Faculty of Public Health Universitas Airlangga
+Open access under a CC BY – SA license
+Joinly Published by IAGIKMI & Universitas Airlangga
+
+e-ISSN: 2580-1163 (Online)
+p-ISSN: 2580-9776 (Print) 224
+A ndini and Agestika, et al | Amerta Nutrition Vol. 6 Issue 1SP (December 2022). 220-225
+Hasil uji statistik dengan menganalisis alur pengetahuan untuk mempengaruhi pola pikir, tujuh hari
+penelitian di lapangan dapat berimplikasi pada proses kedua adalah tahap internalisasi untuk menjadikan suatu
+intervensi peer-group yang diberikan. Durasi waktu perilaku yang telah diketahui sebagai pola sikap atau
+intervensi pada penelitian ini masih tergolong short-time kebiasaan, dan tujuh hari terakhir merupakan tahap
+atau intervensi singkat hanya 3 minggu untuk edukasi mengubah pola sikap menjadi budaya baru, sehingga
+peer-group dari educator ke kelompok kecil teman untuk penerapan perilaku yang baik (kepatuhan) dapat
+sebayanya jika dibandingkan penelitian sebelumnya tergambarkan lebih dari waktu minimal tersebut.
+yaitu minimal 2 bulan dan proses edukasi efektif untuk Selain itu proses edukasi yang diberikan melalui
+perubahan sikap dan perilaku selama durasi 8 bulan daring juga menghasilkan dampak monitoring keaktifan
+intervensi5,12,18, sehingga dapat mempengaruhi proses peserta edukasi yang kurang maksimal, terdapat
+penerimaan pengetahuan yang didapat dan kemungkinan terjadi siswi-siswi yang diberikan materi
+pengaplikasiannya pada penentuan sikap serta hanya membaca group daring namun tidak dipelajari dan
+kepatuhan konsumsi tablet tambah darah. Maxxwell dipahami dengan baik walau educator dan peneliti sudah
+Maltz dalam Surjantini, R dan Saragih, H, 2019 memberikan stimulus untuk berjalannya proses transfer
+menuliskan langkah perubahan perilaku minimal 21 hari, materi yang dua arah seperti yang dipaparkan pada
+tujuh hari pertama adalah tahapan menanamkan Gambar 1 berikut.
+Gambar 1. Dokumentasi edukasi melalui Whatsapp Group oleh peer educator
+Kebijakan pemerintah yang telah ada dalam intervensi pada proses edukasi yang melalui whatsapp group
+penanggulangan anemia remaja berfokus pada program cenderung diabaikan oleh pengguna jika tidak
+suplementasi gizi di sekolah dengan distribusi tablet Fe dimonitoring dengan baik untuk keaktifan anggota dalam
+setiap triwulan melalui puskesmas pada wilayah peer-group. Kurangnya periode intervensi yang singkat
+kerjanya2,3. Namun, untuk mendukung tercapainya pada penelitian ini juga menjadi penghambat untuk
+tujuan tersebut, koordinasi antara pihak sekolah dan mencapai hasil keluaran, terutama kepatuhan konsumsi
+puskesmas perlu dilakukan. Kebijakan dalam tablet Fe hingga habis.
+pemantauan (monitoring) kepatuhan remaja untuk
+mengkonsumsi tablet Fe sebaiknya tidak hanya menjadi KESIMPULAN
+tanggung jawab Puskesmas, tapi juga pihak sekolah. Edukasi peer-group berbasis digital berhasil
+Metode komunikasi berbasis digital dan jejaring peer- meningkatkan pengetahuan dan kepatuhan konsumsi
+group teman sebaya dapat menjadi penghubung yang tablet Fe pada remaja pada kelompok intervensi. Namun,
+memudahkan proses transfer pengetahuan dan motivasi tidak terdapat hubungan yang signifikan antara
+positif bagi remaja. Komunikasi berbasis digital ini dapat pemberian intervensi antara dua kelompok intervensi
+memudahkan pihak sekolah dan puskesmas untuk dan kontrol. Edukasi melalui peer-group dapat menjadi
+menjalankan perannya dalam memonitor keberhasilan alternatif inovasi pencegahan anemia remaja di sekolah
+program. dengan optimalisasi rentang waktu periode intervensi.
+Kelebihan pada penelitian ini bahwa bentuk
+intervensi edukasi melalui peer-group dengan ACKNOWLEDGEMENT
+pemanfaatan mobile digital tidak banyak mengelurkan Ucapan terimakasih penulis sampaikan kepada
+biaya, informasi yang diberikan bisa tersampaikan lebih Kepala sekolah, Guru Pembina UKS dan seluruh siswi
+mudah, cepat dan efisien waktu. Penelitian ini partisipan SMPN 1 dan MTSN 3 Arjawinangun, Kepala
+berkolaborasi secara berkesinambungan dengan sekolah Puskesmas Tegalgubug Kecamatan Arjawinangun, Dinas
+dan puskesmas untuk mensukseskan program Kesehatan Kabupaten Cirebon Bidang Gizi Masyarakat
+sumplementasi Fe. Namun demikian, penggunaan media atas izin dan dukungan terhadap keberlangsungan proses
+digital memerlukan keterjangkauan signal yang stabil, penelitian.
+Copyright ©2022
+Faculty of Public Health Universitas Airlangga
+Open access under a CC BY – SA license
+Joinly Published by IAGIKMI & Universitas Airlangga
+
+e-ISSN: 2580-1163 (Online)
+p-ISSN: 2580-9776 (Print) 225
+A ndini and Agestika, et al | Amerta Nutrition Vol. 6 Issue 1SP (December 2022). 220-225
+10. Parliani, L. Hubungan Asupan Gizi, Pengetahuan
+CONFLICT OF INTEREST DAN FUNDING DISCLOSURE dan Sosial Ekonomi Terhadap Kejadian Anemia
+Tidak terdapat conflict of interest dalam Metode Flowcytometry Pada Remaja Putri Di
+penulisan artikel ini. Penelitian ini didanai secara mandiri. SMP YWKA II Rawamangun Jakarta Timur. (STIKES
+Binawan, 2018)
+REFERENSI 11. Ghasemi, V., Simbar, M., Fakari, F. R., Naz, M. S.
+1. Abu-baker, N. N., Eyadat A. M. & Khamaiseh, A. G. & Kiani, Z. The Effect of Peer Education on
+M. The Impact of Nutrition Education on Health Promotion of Iranian Adolescents : A
+Knowledge , Attitude , and Practice Regarding Systematic Review. International Journal of
+Iron Deficiency Anemia Among Female Pediartics 7(63):9139–9157 (2019).
+Adolescent Students in Jordan. Heliyon. 7:1-7 12. Permanasari, I., Mianna, R., Wati, Y. S. The Effect
+(2021) of Peer Education on Anemia Prevention
+2. Kementerian Kesehatan Republik IndonesiaI. Behavior Among Adolescence Girls At Senior High
+Riset Kesehatan Dasar. (2018). School 05 of Pekanbaru. Jurnal Endurance : Kajian
+3. Dinas Kesehatan Jawa Barat. Profile Kesehatan Ilmiah Problema Kesehatan. 6(1):59-69 (2021).
+Evaluasi Program Gizi 2021. (2022). 13. Kristianti, S dan Novitasari, R. Peer Group Model
+4. World Health Organization. Nutritional dalam Edukasi Kespro Remaja, Deteksi, dan
+Anaemias : Tools for Effective Prevention and Mencegah Anemia di SMP 4 Kota Kediri. Prosiding
+Control. (2017). Seminar Nasional Hasil Penelitian dan
+5. Singh, M., Honnakamble, R. A. & Rajaora, O. P. Pengabdian Masyarakat Seri Ke-3 Tahun 2019,
+Knowledge, Attitude and Practice Change about Mojokerto. 83-87. (2019)
+Anemia after Intensive Health Education among 14. Shankar, P., Siever, D. & Sharman, R. Evaluating
+Adolescent School Girls of Delhi: An Intervention the impact of a school-based youth-led health
+Study. International Journal of Medicine and education program for adolescent females in
+Public Health. 9(3):71-73 (2019). mumbai, India. Annals of Global Health, 86(1):1–
+6. Yusoff, H., Daud, W. N. W. & Ahmad, Z. Nutrition 9 (2020).
+Education and Knowledge , Attitude and 15. Nadimin. Education by Peer to Improve
+Hemoglobin Status of Malaysian Adolescents. Knowledge About Anemia in Female Student.
+Southeast Asian Journal Tropical Medical Public Health Notions Publisher : Humanistic Network
+Health. 43(1):192-200 (2012). for Science and Technology Health Notions.
+7. Cynara, A. C., Pamungkasari, E. P.. & Murti, B. The 2(4):487–489 (2018).
+Effects of Iron Tablet Program, Intrapersonal, and 16. Klar, S., & Leeper, T.J. Identities and
+Social Factors on Nutrition Intake to Prevent Intersectionality: A Case for Pusposive Sampling
+Anemia in Female Adolescents in Yogyakarta. in Survey-Experimental Research. (In
+[Abstrak]. Di dalam: The 7th International Experimental Methods in Survey Research, 2019)
+Conference on Public Health; 18-19 November 17. Putri, R. D., Simanjuntak, B. Y. & Kusdalinah.
+2020; Solo; 2020. p 172. (2020) Pengetahuan Gizi, Pola Makan, dan Kepatuhan
+8. Jalambo, M., Karim, N., Naser, I., & Sharif, R. Konsumsi Tablet Tambah Darah dengan Kejadian
+Effect of Iron Supplementation and Nutrition Anemia Remaja Putri. Jurnal Kesehatan. 8(3): 404
+Education on Haemoglobin, Ferritin and (2017).
+Oxidative Stress in Iron Deficient Female 18. Surjantini, R dan Saragih, H. Pengaruh Pendidikan
+Adolescents in Palestine : Randomized Control Teman Sebaya (Peer Education) Terhadap
+Trial. PubMed East Mediterr Journal. 24(6): 560- Perilaku Remaja Putri yang Menderita Anemia di
+568 (2018). Madrasah Stanawiyah Islamiyah Jl.Suluh 71 Kota
+9. Indrawatiningsih, Y., Hamid, S. T. A., Sari, E. P., & Medan Tahun 2018. Jurnal Ilmiah PANNMED
+Listiono, H. Faktor-Faktor yang Mempengaruhi (Pharmacist, Analyst, Nurse, Nutrition,
+Terjadinya Anemia pada Remaja Putri. Jurnal Midwivery, Environment, Dentist). 13(2): 134–
+Ilmiah Universitas Batanghari Jambi. 21(1):331- 139 (2019).
+337 (2021)
+Copyright ©2022
+Faculty of Public Health Universitas Airlangga
+Open access under a CC BY – SA license
+Joinly Published by IAGIKMI & Universitas Airlangga
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+ISSN : 2477-5126, DOI:10.30591/jpit.v10i3.8873
+CesLA (Cegah Stunting Lewat Anemia): Deteksi Anemia Non-Invasif
+pada Remaja Putri Berbasis Citra Konjungtiva
+Hepatika Zidny Ilmadina1, Juhrotun Nisa2, Dyah Apriliani 3, Lulu Nadhiatun Anisa 4, Firda Aulia Rakhmah 5
+1,2,3,4,5 Politeknik Harapan Bersama, Jalan Mataram 9, Tegal, 52147, Indonesia
+Info Artikel
+Abstract – Stunting is a chronic nutritional problem that will directly affect the quality of human
+resources in the future. One of the contributing factors to stunting is anemia during pregnancy,
+Riwayat Artikel:
+which often originates from adolescence. Early detection of anemia in women of reproductive age
+Received 2025-05-29 is a crucial preventive measure to reduce the risk of stunting. This study aims to develop an anemia
+Revised 2025-07-15 classification model based on conjunctival images using a combination of MobileNetV2
+Accepted 2025-07-18
+architecture and Support Vector Machine (SVM), and to implement the model into a mobile
+application named CeSLA (Cegah Stunting Lewat Anemia). The model was built using a dataset of
+female conjunctival images annotated based on haemoglobin levels and visual characteristics of
+the conjunctiva. Evaluation results explain that the model achieved precision, recall, and f1-score
+values ranging from 0.91 to 0.92 for each class, with a macro average of 0.92, indicating accurate
+and balanced classification performance. The trained and evaluated model was then integrated into
+the CeSLA mobile application. This application allows users, particularly adolescent girls, to detect
+potential anemia non-invasively by scanning the lower eyelid using a smartphone camera. CeSLA
+is also equipped with educational features such as health articles and a detection history log. With
+this approach, CeSLA is expected to serve as an innovative solution that supports early, self-
+administered anemia detection and contributes to the national effort to prevent stunting.
+Keywords: Anemia, Conjungtiva, Non-Invasive Detection, Mobilenetv2, Stunting, SVM
+Corresponding Author: Abstrak – Stunting merupakan permasalahan gizi kronis yang berdampak langsung terhadap
+kualitas sumber daya manusia di masa mendatang. Salah satu faktor yang berkontribusi terhadap
+Hepatika Zidny Ilmadina stunting adalah anemia pada ibu hamil, yang sering kali bermula sejak usia remaja. Deteksi dini
+Email: hepatikazidny@gmail.com anemia pada perempuan usia produktif menjadi langkah preventif penting untuk menurunkan risiko
+stunting. Penelitian ini bertujuan untuk mengembangkan model klasifikasi anemia berbasis citra
+konjungtiva mata menggunakan kombinasi arsitektur MobileNetV2 dan Support Vector Machine
+(SVM), serta mengimplementasikannya ke dalam aplikasi mobile bernama CeSLA (Cegah Stunting
+Lewat Anemia). Model dibangun menggunakan dataset citra konjungtiva perempuan yang telah
+dianotasi berdasarkan nilai hemoglobin dan citra konjungtivanya. Hasil evaluasi menunjukkan
+This is an open access
+bahwa model menghasilkan nilai precision, recall, dan f1-score sebesar 0,91–0,92 untuk masing-
+article under the CC BY 4.0 masing kelas, dengan macro average sebesar 0,92, menandakan performa klasifikasi yang akurat
+license. dan seimbang. Model yang telah dilatih dan dievaluasi kemudian diintegrasikan ke dalam aplikasi
+CeSLA. Aplikasi ini memungkinkan pengguna, khususnya remaja putri, untuk mendeteksi
+kemungkinan anemia secara non-invasif hanya dengan memindai bagian bawah kelopak mata
+menggunakan kamera smartphone. CeSLA juga dilengkapi fitur edukatif seperti artikel kesehatan
+dan riwayat deteksi. Dengan pendekatan ini, CeSLA diharapkan menjadi solusi inovatif yang tidak
+hanya mendukung deteksi dini anemia secara mandiri, tetapi juga berkontribusi dalam upaya
+nasional pencegahan stunting.
+Kata Kunci: Anemia, Deteksi Non-Invasif, Konjungtiva, Mobilenetv2, Stunting, SVM
+I. PENDAHULUAN
+Stunting merupakan permasalah gizi kronis pada anak di bawah lima tahun yang kejadiannya cukup tinggi
+di Indonesia dan masih menjadi permasalahan gizi di dunia [1]–[3]. Survei Status Gizi Indonesia (SSGI) yang
+dilakukan oleh Kementerian Kesehatan melalui Badan Kebijakan Pembangunan Kesehatan (BKPK) pada tahun
+2022 menunjukkan prevalensi stunting di Indonesia berada pada angka 21,6%. Pemerintah sendiri memiliki
+target untuk menurunkan angka prevalensi menjadi 14% di tahun 2024. Malnutrisi dan stunting menyebabkan
+pertumbuhan terhambat, terutama pada kecerdasan dan kemampuan kognitif anak. Pertumbuhan terhambat
+merupakan kejadian yang dapat dikaitkan dengan kekurangan gizi selama perkembangan janin akibat ibu yang
+kekurangan gizi [4], [5]. Stunting merupakan masalah gizi dengan angka kejadian yang cukup tinggi di
+Indonesia. Menjadi suatu hal yang penting untuk diperhatikan karena akan mempengaruhi kualitas sumber daya
+manusia Indonesia di masa mendatang. Upaya pemerintah dalam mencegah dan menurunkan angka stunting
+harus melibatkan semua pihak secara komprehensif [1], [5].
+Salah satu faktor yang berkontribusi terhadap kejadian stunting pada anak adalah kondisi kesehatan ibu
+selama masa kehamilan, khususnya yang berkaitan dengan status gizi. Ibu hamil yang mengalami malnutrisi,
+memiliki risiko lebih tinggi melahirkan bayi dengan berat badan lahir rendah dan gangguan pertumbuhan.
+Beberapa faktor yang mempengaruhi nutrisi sebelum dan selama kehamilan antara lain usia, pekerjaan, tinggi
+717
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+badan, berat badan, adanya riwayat penyakit menular selama kehamilan, adanya konsumsi suplemen Fe (besi)
+atau folat, adanya riwayat anemia pada masa kehamilan, jumlah kelahiran anak, kunjungan ANC (antenatal
+care) dan faktor kesenjangan kehamilan [4]. Ibu hamil yang mengalami atau memiliki riwayat anemia memiliki
+risiko 2 hingga 4 kali lebih tinggi untuk melahirkan balita yang mengalami stunting [3], [4], [6]. Riwayat anemia
+pada ibu hamil berhubungan sangat signifikan dengan potensi stunting pada balita, yaitu 2 (dua) kali lebih tinggi
+melahirkan balita yang beresiko stunting [4], [7].
+Di tahun 2023, prevalensi kejadian anemia pada ibu hamil di seluruh dunia ada antara 41,8% hingga
+43,8%, berarti sekitar 56-59 juta ibu hamil menderita anemia [fahmi adhi]. Anemia pada kehamilan biasanya
+terjadi pada trimester 1 dan 3 dengan kadar Hb di bawah 11 g% dan pada trimester 2 dengan kadar Hb kurang
+dari 10,5 g%. Ada banyak faktor yang mempengaruhi kejadian anemia, akan tetapi 50% disebabkan secara
+langsung karena berkurangnya masukan zat gizi besi yang biasa dikenal dengan anemia defisiensi besi. Hal
+tersebut beriringan dengan kebutuhan besi yang meningkat sewaktu hamil [8], [9]. Salah satu resiko kekurangan
+zat besi itu sendiri adalah berkurangnya suplai oksigen ke sel tubuh maupun otak. Keadaan akan bertambah
+parah jika hal ini terjadi pada saat trimester III, maka akan memiliki risiko melahirkan prematur lebih besar
+dibandingkan ibu hamil yang tidak anemia [10].
+Pendekatan konvensional untuk mendiagnosis anemia biasanya memerlukan prosedur invasif, biasanya
+dilakukan dengan pengambilan sampel darah untuk dianalisis di laboratorium. Karena zat besi merupakan
+komponen utama dalam hemoglobin, kadar hemoglobin sering dijadikan indikator awal untuk mendeteksi
+kemungkinan defisiensi zat besi atau anemia [7], [11]. Jika lebih detail lagi, pemerikasaan termasuk biopsi
+sumsum tulang. Seluruh prosedur tersebut jelas mengeluarkan biaya ringan hingga mahal, memakan waktu, dan
+menimbulkan rasa tidak nyaman bagi beberapa pasien, dan ketakutan akan risiko penularan penyakit yang
+mungkin timbul. Hal ini belum terkait dengan daerah yang sulit dijangkau maupun infrastruktur dan sumber daya
+perawatan kesehatan yang tidak memadai [7], [12]. Hal ini menyebabkan metode non-invasif untuk
+mendiagnosis anemia semakin populer untuk digunakan. Metode non-invasif dilakukan dengan penilaian kuku,
+konjungtiva, atau lipatan telapak tangan [11].
+Beberapa metode digunakan dalam pengembangan penelitian maupun aplikasi pengecekan anemia secara
+non-invasif. Metode machine learning yang memenuhi penggunaan terbanyak adalah dan Support Vector
+Machine (SVM), dan metode deep learning adalah Convolutional Neural Network (CNN) [13]. Sistem Informasi
+deteksi kadar hemoglobin menggunakan Extreme Gradient Boosting [11], dikembangkan sistem yang mampu
+memberikan informasi kadar hemoglobin pasien berbasiskan internet of things dan aplikasi android. Aplikasi
+deteksi anemia juga pernah dikembangkan menggunakan Convolutional Neural Network dengan menggunakan
+pembacaan citra mukosa bibir. Penelitian tersbut menunjukkan anemia dapat dideteksi menggunakan pembacaan
+mukosa bibir menggunakan kecerdasan buatan dengan akurasi terbaik sebesar 99,28% [14]. Pengecekan anemia
+menggunakan penilaian kuku juga dilakukan dengan data mining menghitung persentase sel bornoda biru dan
+merah pada pembacaan citra kuku [15]. Selain itu alat deteksi anemia pada ibu hamil non-invasif menggunakan
+ensemble learning melalui aplikasi smartphone [11]. Dalam pengembangan aplikasinya, data primer yang
+digunakan adalah hasil wawancara yang disertai uji coba alat dan kuisioner, selain itu data sekunder diperoleh
+dari Dinas Kesehatan Kota Semarang tahun 2020-2021. Aplikasi-aplikasi tersebut tidak menggunakan data
+konjungtiva mata sesuai dengan pemeriksaan non-invasif terbaik. Penelitian pada pemeriksaan non-invasif
+dengan bantuan pembacaan citra konjungtiva mata juga sudah banyak dikembangkan. Citra konjungtiva mata
+digunakan karena merupakan indikator paling tepat dalam menentukan anemia [12]. Penelitian pengecekan
+kondisi anemia dan non anemia menggunakan RUSBoost yang merupakan algoritma kombinasi Adaboost dan
+random undersampling, menghasilkan hasil akurasi model klasifikasi yang baik [16]. NiADA (Non-invasive
+Anemia Detection App) dikembangkan sebagai aplikasi deteksi anemia dengan menggunakan model kecerdasan
+buatan yang dilatih menggunakan dataset konjungtiva perempuan dan laki-laki [17]. Aplikasi lain dikembangkan
+menggunakan XGBoost di tahun 2024 [12] dengan dataset campuran juga. Implementasi dan rancangan aplikasi
+deteksi anemia non invasif berbasis kecerdasan buatan mampu memberikan hasil yang valid dan cepat dalam
+pengukuran kadar hb dalam menentukan status anemia [18]. Hal tersebut belum dapat diimplementasikan dalam
+mendeteksi potensi anemia pada perempuan usia produktif dalam rangka mengurangi angka anemia pada ibu
+hamil. Dengan melihat metode terbaik dalam pengembangan aplikasi deteksi anemia adalah dan CNN [13], dapat
+dilihat dari penelitian sebelumnya yang membuktikan penggunaan kombinasi tersebut mendapatkan hasil yang
+baik. Beberapa implementasi pada penelitian terdahulu seperti deteksi mata mengantuk [19] dan deteksi
+pneumonia [20]. Perbedaan signifikan dari penelitian ini dibandingkan penelitian terdahulu seperti NiADA
+maupun pendekatan berbasis XGBoost adalah fokus pengembangan sistem end-to-end, yang tidak hanya
+menampilkan model klasifikasi, tetapi juga mengintegrasikan seluruh tahapan dari akuisisi citra, preprocessing,
+hingga prediksi dan visualisasi hasil. Selain itu, pendekatan ini secara khusus menargetkan populasi remaja putri
+sebagai kelompok pencegahan awal anemia sebelum kehamilan, yang belum banyak dikaji dalam studi
+sebelumnya. Aplikasi ini akan dekembangkan dengan model kombinasi CNN (MobileNetV2) dan SVM yang
+digunakan dalam deteksi potensi anemia pada perempuan, terutama ibu hamil.
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+718
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+II. METODE
+Penelitian ini dikembangkan dengan metode ML Pipeline dan CRISP-ML(Q), yang sesuai dengan
+pengembangan aplikasi dan pemodelan kecerdasan buatan. ML pipeline adalah serangkaian langkah terstruktur
+atau proses berurutan yang digunakan untuk mengelola alur kerja dalam pengembangan model machine learning.
+Sedangkan CRISP-ML(Q) lebih menekankan pada metodologi pengembangan dan penerapan model Machine
+Learning agar diterima di masyarakat karena berkaitan dengan proses bisnis aplikasi [21], [22]. Dengan
+menerapkan metode ini, diharapkan aplikasi dapat dibangun secara efisien dan sesuai dengan perancangan serta
+dapat memberikan pengalaman pengguna yang lebih optimal, berikut rincian langkahnya:
+A. Dataset
+Dataset yang digunakan pada penelitian ini adalah Eyes-defy-anemia Dataset [16], yang berisikan 218
+gambar mata (konjungtiva) dengan sampel mata perempuan dan laki-laki dan dapat digunakan dalam penelitian
+tentang diagnosis/estimasi anemia berdasarkan pucat konjungtiva. Dataset yang digunakan dalam penelitian
+adalah dataset perempuan yang kemudian dianotasi kembali oleh expert untuk setiap kondisinya berdasarkan
+kadar Hb untuk ibu hamil, berjumlah kelas Anemia sebanyak 93 dan kelas Normal sebanyak 45.
+B. Pengembangan Model
+Peneletian menggunakan alur ML Pipeline dalam pengembangan model yang diilustrasikan pada Gambar
+1 berikut ini.
+Pre-processing Split data
+Traning Model
+Evaluate Model Predictive Model MobileNetV2+SVM
+Gambar 1. Alur Pengembangan Model Deteksi Anemia
+1) Data Preprocessing
+Pada tahap ini, akan dilakukan proses persiapan data dengan beberapa teknik pre-processing seperti
+memberikan label khusus pada dataset citra konjungtiva perempuan menjadi kelas “perempuan anemia” dan
+“perempuan tidak anemia”. Selanjutnya resizing ukuran citra agar mempermudah pengolahan data dan sesuai
+dengan ukuran masukan arsitektur model yang akan digunakan, yaitu 224x224 pixel. Beberapa teknik
+augmentasi juga dilakukan seperti horizontal flip, random brightness contrast, dan random contrast untuk
+masing-masing dataset. Kemudian diterapkan teknik SMOTE dan Tomek Links [20] untuk menangani dataset
+yang nantinya masih imbalance.
+2) Split Data
+Tahapan ini merupakan proses pembagian dataset menjadi data training dan testing. Pembagian data
+ini dilakukan untuk mematikan pembuatan model pendeteksian dengan citra konjungtiva tidak mengalami
+overfitting. Dengan memisahkan data untuk pelatihan dan pengujian, model dapat diuji kemampuannya
+dalam menggeneralisasi pola-pola yang ada pada data baru.
+3) Training Model
+Pelatihan model dilakukan menggunakan kombinasi arsitektur MobileNetV2 dan SVM. Dalam hal ini,
+MobileNetV2 yang merupakan model berbasis CNN berfungsi sebagai feature extractor untuk mengekstraksi
+ciri-ciri penting dari citra input secara efisien, sedangkan SVM digunakan sebagai lapisan klasifikasi untuk
+memisahkan kelas “anemia” dan “tidak anemia” berdasarkan fitur yang dihasilkan. Pemisahan arsitektur ini
+bertujuan untuk memanfaatkan kekuatan MobileNetV2 sebagai feature extractor [20] dalam menangani
+pemrosesan citra secara ringan (lightweight) dan efisien. Arsitektur ini memanfaatkan teknik yang disebut
+depthwise separable convolution, di mana proses ekstraksi fitur dilakukan dengan cara yang lebih efisien
+dibanding CNN biasa. Setiap blok utamanya, atau disebut bottleneck, terdiri dari tiga langkah penting:
+memperluas dimensi fitur, menjalankan konvolusi ringan, lalu mengecilkannya kembali. MobileNetV2
+memiliki mekanisme residual connection yang membantu menjaga informasi penting tidak hilang, sehingga
+banyak dikembangkan untuk perangkat dengan daya komputasi rendah, seperti ponsel dan single-board
+computer [20], [23]. Hasil ekstraksi fitur tersebut kemudian diklasifikasikan menggunakan SVM yang
+mampu mengklasifikasi pada dataset berukuran terbatas [24]. Pendekatan ini juga memungkinkan pelatihan
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+719
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+model dilakukan lebih cepat dengan kebutuhan komputasi yang lebih rendah, sehingga cocok untuk aplikasi
+pada perangkat dengan spesifikasi terbatas seperti smartphone. Kombinasi MobileNetV2 dan SVM
+diilustrasikan pada Gambar 2, berikut ini.
+Anemia
+SVM Tidak
+Anemia
+Feature extractor Classifier (SVM)
+(MobileN[[[ etV2)
+Gambar 2. Alur Pengembangan Model Deteksi Anemia
+4) Predictive Model
+Setelah model selesai dilatih, tahap selanjutnya adalah pengujian (testing) untuk mengevaluasi kinerja
+model dalam mengklasifikasikan kondisi “anemia” dan “tidak anemia” secara akurat. Pada tahap ini, data uji
+yang sebelumnya tidak digunakan dalam proses pelatihan diberikan ke model. Citra pada data uji diekstraksi
+menggunakan arsitektur MobileNetV2, dengan hasil ekstraksi (fitur) kemudian diklasifikasikan oleh SVM.
+5) Evaluate Model
+Tahap evaluasi dilakukan untuk menilai performa model secara menyeluruh. Evaluasi mencakup
+analisis metrik performa, seperti classification report, serta visualisasi dalam bentuk grafik kurva. Grafik
+tersebut dihasilkan dari proses pelatihan model, yang menampilkan perbandingan antara Training Loss dan
+Validation Loss, serta Training Accuracy dan Validation Accuracy. Visualisasi ini bertujuan untuk
+memberikan gambaran mengenai kestabilan dan kemampuan generalisasi model selama proses pelatihan.
+C. Pengembangan Sistem (Aplikasi)
+Setelah model klasifikasi berhasil dilatih dan dievaluasi dengan hasil yang baik, langkah selanjutnya
+adalah melakukan proses penyimpanan model dalam format .h5 untuk dapat diintegrasikan ke dalam sistem
+(aplikasi). File model ini nantinya akan digunakan sebagai inti dari sistem kecerdasan buatan pada aplikasi.
+Pengembangan aplikasi dilakukan dengan pendekatan CRIPS-ML(Q), yaitu metode pengembangan sistem
+berbasis siklus yang sesuai untuk proyek pembelajaran mesin. Metode ini memungkinkan pengembangan
+dilakukan secara iteratif dan berfokus pada evaluasi kualitas model secara berkelanjutan.
+Tahap implementasi aplikasi nantinya mencakup proses integrasi antara komponen frontend, backend,
+dan model AI agar dapat berfungsi sebagai satu kesatuan sistem yang utuh dalam bentuk aplikasi berbasis mobile.
+Aktivitas dalam tahap ini meliputi pengujian alur data dari input pengguna hingga hasil prediksi, penyesuaian
+Application Programming Interface (API) untuk komunikasi antara antarmuka pengguna dan model, serta
+validasi fungsionalitas setiap fitur sesuai dengan rancangan awal, termasuk kemudahan penggunaan dan akurasi
+prediksi. Hasil akhir dari tahap ini berupa aplikasi mobile yang mampu mendeteksi kemungkinan anemia
+berdasarkan citra non-invasif dan memberikan hasil klasifikasi secara langsung kepada pengguna. Sistem ini
+diharapkan dapat digunakan oleh remaja maupun tenaga kesehatan sebagai alat bantu pemantauan kesehatan
+yang mudah diakses dan efisien.
+III. HASIL DAN PEMBAHASAN
+Percobaan dilakukan pada perangkat dengan prosesor Intel Core i5 generasi ke-8 (2.0 GHz) dan memori
+sebesar 16 GB. Proses komputasi pemodelan dijalankan menggunakan bahasa pemrograman Python melalui
+platform Google Colab, dengan dukungan GPU NVIDIA Tesla K80. Implementasi model memanfaatkan
+berbagai library seperti Keras (dengan backend TensorFlow), NumPy, scikit-learn (sklearn), matplotlib, dan
+pandas. Berikut merupakan hasil dari penelitian yang dilakukan.
+A. Pemodelan MobileNetV2 dan SVM dalam Klasifikasi Anemia Ibu Hamil
+Pada tahap pemodelan, proses diawali dengan melakukan pre-processing terhadap dataset, khususnya
+dengan memilih data pasien berjenis kelamin perempuan untuk dianotasi kelasnya. Anotasi dilakukan oleh
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+720
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+tenaga ahli (bidan) berdasarkan nilai hemoglobin (Hb) yang tersedia dalam dataset, dan diklasifikasikan ke dalam
+dua label, yaitu “anemia” dan “normal”. Data citra dari pasien perempuan inilah yang kemudian digunakan
+sebagai data latih dan data uji dalam proses pemodelan. Pemilihan data pasien perempuan dilakukan untuk
+menyesuaikan dengan tujuan pengembangan aplikasi, yaitu deteksi dini anemia pada calon ibu sebagai bagian
+dari upaya pencegahan stunting. Sebelum masuk ke dalam model, dataset dibagi menjadi dua bagian, yaitu 80%
+untuk data latih dan 20% untuk data uji. Dengan data yang masih sedikit dan imbalance, langkah awal adalah
+melakukan augmentasi dengan menggunakan horizontal flip, random brightness contrast, dan random contrast
+sehingga diperoleh 297 data perempuan anemia dan 135 dataset perempuan normal. Imbalance dataset kemudian
+diatasi dengan SMOTE dan Tomek Links. SMOTE merupakan pendekatan oversampling yang bertujuan
+menambah jumlah data pada kelas minoritas dengan menciptakan sampel sintetis dari data yang sudah ada [20],
+[25]. Proses ini dilakukan dengan memilih data secara acak dari kelas minoritas, mencari tetangga terdekatnya,
+lalu membentuk data baru melalui interpolasi antara data tersebut dengan tetangganya menggunakan faktor
+pengali acak. Dilanjutkan dengan Tomek Links digunakan sebagai metode undersampling untuk mengurangi
+jumlah data pada kelas mayoritas. Teknik ini bekerja dengan mencari pasangan data dari dua kelas berbeda yang
+saling menjadi tetangga terdekat. Pasangan data tersebut, yang disebut Tomek Links, kemudian dihapus dari
+kelas mayoritas guna memperjelas batas antar kelas [25].
+Model yang diusulkan dalam penelitian ini merupakan kombinasi antara arsitektur MobileNetV2 dengan
+algoritma klasifikasi SVM, yang bertujuan untuk meningkatkan akurasi klasifikasi. MobileNetV2 memiliki
+keunggulan dalam efisiensi konvolusi depth-wise separable-nya yang mampu mengekstraksi fitur secara optimal
+dari citra konjungtiva [26]. Lapisan fully connected sebagai lapisan klasifikasi dikombinasikan dengan algoritma
+SVM yang lebih unggul dalam menangani data yang yang bersifat non-linear dan margin yang besar [20], [26].
+Pemodelan MobileNetV2 dan SVM yang dilatih menggunakan beberapa hyperparameter, dijelaskan pada Tabel
+1 berikut ini.
+TABEL 1
+HYPERPARAMETER EKSPERIMEN
+Model Parameter Nilai
+MobileNetV2 weight imagenet
+(base layer)
+SVM C 1.0
+kernel linear
+Pelatihan dengan menggunakan Python, memanfaatkan library dari Keras dengan tensorflow backend
+sesuai dengan hyperparamter yang telah ditentukan. Hasil evaluasi pelatihan klasifikasi “anemia” dan “normal”
+meggunakan kombinasi MobileNetV2 dan SVM dijelaskan pada Tabel 2.
+TABEL 2
+CONFUSION MATRIX HASIL PELATIHAN
+Kelas Precision Recall f-1 score
+Anemia 0,92 0,91 0,92
+Normal 0,91 0,92 0,92
+Macro 0,92 0,92 0,92
+Average
+Model klasifikasi anemia yang dikembangkan dengan kombinasi MobileNetV2 sebagai ekstraksi fitur dan
+SVM sebagai classifier menunjukkan performa yang sangat baik berdasarkan Tabel 2 hasil evaluasi. Hasil
+tersebut menunjukkan bahwa model mampu mengklasifikasikan data dengan precision, recall, dan f1-score yang
+tinggi sebesar 0,91–0,92 untuk masing-masing kelas "Anemia" dan "Normal". Nilai rata-rata (macro dan
+weighted average) dari ketiga metrik tersebut juga stabil di angka 0,92, yang memberikan gambaran performa
+konsisten tanpa adanya indikasi kendala imbalance class. Hal ini disebabkan MobileNetV2 memiliki keunggulan
+dalam mengekstraksi fitur visual penting secara efisien menggunakan depthwise separable convolutions,
+sehingga fitur-fitur seperti pucat pada wajah atau konjungtiva dapat diidentifikasi secara detail dari citra pasien
+[19], [26], [27]. Selain itu, pendekatan transfer learning yang digunakan memungkinkan model memanfaatkan
+pengetahuan dari pelatihan sebelumnya, sehingga proses ekstraksi fitur lebih optimal meskipun menggunakan
+dataset yang terbatas. Sementara itu, SVM yang digunakan pada lapisan klasifikasi yang menggantikan fully
+connected layer berperan penting dalam meningkatkan kemampuan klasifikasi model. SVM dikenal efektif
+dalam menangani data berdimensi tinggi dan dapat membedakan kelas secara akurat pada ruang fitur kompleks
+[24], [26]. Kombinasi ini juga membantu mengurangi risiko overfitting, yang umumnya menjadi tantangan
+dalam klasifikasi medis dengan data terbatas. Dapat disimpulkan bahwa model MobileNetV2 dan SVM tidak
+hanya mampu memberikan hasil klasifikasi yang akurat, tetapi juga efisien dan stabil dalam penggunaannya. Hal
+ini membuktikan bahwa pendekatan ini layak digunakan dalam sistem pendeteksian anemia berbasis citra
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+721
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+sebagai langkah awal pemantauan Kesehatan perempuan usia produktif, khususnya dalam konteks pencegahan
+stunting sejak dini. Model dengan hasil evaluasi baik ini kemudian, diujikan terlebih dahulu sebelum
+diimplementasikan di dalam aplikasi. Hasil evaluasi yang dilakukan ditunjukkan pada Gambar 3 di bawah ini.
+(a) (b)
+Gambar 3.Dari kiri ke kanan pada uji klasifikasi model; (a) Konjungtiva terdeteksi anemia; (b) Konjungtiva terdeteksi normal
+Gambar 3 tersebut menampilkan hasil pengujian model deteksi anemia menggunakan citra konjungtiva
+mata. Pada gambar pertama, sistem mendeteksi kondisi “anemia”, ditandai dengan tampilan konjungtiva yang
+tampak lebih pucat. Sementara pada gambar kedua, hasil deteksi menunjukkan kondisi “normal”, dengan warna
+konjungtiva yang terlihat lebih merah dan merata. Hasil ini menunjukkan bahwa model mampu membedakan
+karakteristik visual pada citra dengan cukup baik, mendukung efektivitas pendekatan non-invasif berbasis citra
+untuk mendeteksi anemia. Keberhasilan ini juga memperkuat peran teknologi kecerdasan buatan dalam
+memberikan solusi praktis untuk pemantauan kesehatan secara mandiri. Model ini kemudian disimpan untuk
+kemudian dikembangkan dalam aplikasi deteksi anemia.
+B. Implementasi Model dalam Aplikasi
+Aplikasi CeSLA: Solusi Cerdas Deteksi Anemia Berbasis Smartphone, dibangun sebagai solusi inovatif
+untuk membantu mendeteksi anemia secara cepat, mudah, dan akurat hanya melalui smartphone. Dengan
+memanfaatkan teknologi pengolahan citra, pengguna cukup mengambil gambar konjungtiva (bagian bawah
+kelopak mata) menggunakan kamera smartphone. Gambar tersebut akan secara otomatis dianalisis oleh sistem,
+sehingga hasil deteksi dapat diketahui secara instan. Setelah proses deteksi, pengguna akan mendapatkan hasil
+berupa status anemia beserta informasi pencegahan yang dapat dilakukan. Untuk memudahkan pemantauan,
+hasil deteksi yang telah dilakukan sebelumnya akan tersimpan dan dapat diakses kembali melalui fitur Riwayat
+Deteksi.
+CeSLA juga dilengkapi dengan fitur Artikel Kesehatan yang menyediakan berbagai informasi seputar
+anemia, mulai dari penjelasan penyakit, gejala, pencegahan, hingga tips menjaga kesehatan. Fitur ini bertujuan
+untuk meningkatkan kesadaran dan pemahaman pengguna terhadap anemia secara lebih menyeluruh. Bagi
+pengguna yang terdeteksi memiliki risiko anemia dengan tingkat akurasi tinggi, CeSLA menyediakan fitur
+Artikel Kesehatan. Fitur ini akan merekomendasikan penangan sementara kepada pengguna, sehingga mampu
+memperbaiki keadaan tubuhnya menjadi lebih sehat. Dengan fitur-fitur unggulan tersebut, Aplikasi CeSLA hadir
+sebagai pendamping cerdas dalam menjaga kesehatan pengguna, khususnya dalam pencegahan dan penanganan
+anemia secara dini dan efisien. Tampilan aplikasi yang dibangun, dijelaskan pada Gambar 4 di bawah ini.
+Gambar 4.Halaman Depan Aplikasi CesLA
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+722
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+Halaman depan aplikasi CeSLA menyambut pengguna dengan tampilan yang sederhana dan informatif.
+Di bagian atas, terdapat pesan sambutan yang menegaskan tujuan utama aplikasi, yaitu “Cegah Stunting Lewat
+Anemia”. Logo aplikasi yang menampilkan sosok ibu dan anak menggambarkan fokus CeSLA terhadap
+kesehatan ibu dan anak sebagai upaya pencegahan stunting sejak dini. Di bawahnya, terdapat ajakan untuk
+bersama-sama mencegah stunting melalui pencegahan anemia. Halaman ini juga menyediakan dua pilihan utama
+bagi pengguna, yaitu tombol Daftar untuk pengguna baru dan Masuk bagi yang sudah memiliki akun. Tampilan
+ini dirancang agar mudah dipahami dan diakses oleh semua kalangan. Masuk ke dalam fitur deteksi, berikut
+tampilan yang disajikan dalam aplikasi CesLA.
+Gambar 5.Halaman Deteksi Konjungtiva
+Setelah pengguna melakukan proses deteksi anemia melalui pengambilan citra konjungtiva, aplikasi CeSLA
+akan menampilkan halaman hasil prediksi. Hasil ditampilkan dalam bentuk persentase beserta status kondisi,
+seperti “Normal” atau “Suspek Anemia”, disertai dengan citra konjungtiva yang digunakan dalam proses analisis.
+Label “Normal” pada aplikasi merepresentasikan hasil klasifikasi sebagai kondisi normal, sedangkan label
+“Suspek Anemia” mengindikasikan kemungkinan kondisi anemia berdasarkan hasil prediksi model. Penamaan
+“Suspek Anemia” digunakan sebagai bentuk kehati-hatian, mengingat penegakan diagnosis secara medis hanya
+dapat dilakukan oleh tenaga ahli (expert). Oleh karena itu, aplikasi ini tidak bertujuan untuk menggantikan peran
+diagnosis klinis, melainkan memberikan informasi awal mengenai kemungkinan kondisi yang dialami pengguna.
+Kemudian jika hasil deteksi menunjukkan kondisi normal, maka pengguna hanya akan melihat tombol untuk
+kembali ke beranda. Tidak ada rekomendasi tambahan, karena kondisi pengguna dianggap dalam batas aman.
+Jika hasil deteksi menunjukkan suspek anemia, aplikasi akan memberikan saran untuk menjaga pola makan dan
+hidup sehat, dengan munculnya tombol tambahan menuju fitur Artikel Kesehatan. Melalui fitur ini, pengguna
+dapat mengakses informasi lebih lanjut mengenai anemia, pencegahannya, dan tips menjaga kesehatan, sebagai
+bentuk edukasi lanjutan. Tampilan ini dirancang agar responsif terhadap kondisi pengguna dan memberikan
+rekomendasi yang sesuai, hanya saat dibutuhkan. Berikut tampilan fitur artikel Kesehatan yang ada pada aplikasi.
+Gambar 6.Artikel Kesehatan Aplikasi CesLA
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+723
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+Fitur Artikel Kesehatan pada aplikasi CeSLA dirancang untuk memberikan edukasi dan informasi seputar
+kesehatan, khususnya yang berkaitan dengan anemia dan pencegahan stunting. Halaman ini menampilkan
+berbagai artikel yang mudah diakses oleh pengguna, dengan tampilan daftar yang disertai gambar, judul artikel,
+nama penulis, dan cuplikan isi artikel. Pengguna dapat dengan mudah mencari topik yang diinginkan melalui
+kolom pencarian di bagian atas. Artikel yang disediakan mencakup beragam tema, seperti pentingnya pola makan
+sehat, manfaat olahraga teratur, hingga pentingnya tidur yang cukup. Semua konten ditulis dengan bahasa yang
+ringan dan informatif, sehingga cocok untuk semua kalangan. Fitur ini menjadi nilai tambah dalam aplikasi
+CeSLA karena tidak hanya berfungsi sebagai alat deteksi anemia, tetapi juga sebagai media pembelajaran dan
+peningkatan kesadaran pengguna terhadap pentingnya gaya hidup sehat untuk mencegah anemia dan stunting
+secara berkelanjutan. Setelah melakukan deteksi anemia, pengguna dapat melihat hasil deteksi yang pernah
+dilakukan pada Riwayat Deteksi yang disajikan pada Gambar 7 berikut ini.
+Gambar 7.History Pengguna Aplikasi CesLA
+Fitur Riwayat Deteksi pada aplikasi CeSLA memungkinkan pengguna untuk melihat kembali hasil-hasil
+deteksi anemia yang telah dilakukan sebelumnya. Setiap riwayat ditampilkan secara kronologis, lengkap dengan
+status hasil deteksi seperti “Normal” atau “Anemia”, serta tanggal dan waktu pemeriksaan. Fitur ini sangat
+membantu pengguna dalam memantau perkembangan kondisi kesehatannya dari waktu ke waktu. Dengan
+adanya riwayat ini, pengguna dapat membandingkan hasil deteksi sebelumnya dan mengetahui apakah ada
+perubahan atau perbaikan dalam kondisi anemia mereka. Tampilan riwayat dibuat sederhana dan mudah
+dipahami, sehingga pengguna dapat dengan cepat mengakses informasi penting terkait kesehatannya. Fitur ini
+juga berfungsi sebagai pengingat untuk tetap menjaga pola hidup sehat dan rutin memantau kondisi tubuh melalui
+aplikasi CeSLA. Dengan beragam fitur yang dimilikinya, CeSLA tidak hanya berfungsi sebagai alat deteksi
+anemia, tetapi juga menjadi media edukasi dan pendamping kesehatan yang lengkap. Aplikasi ini diharapkan
+dapat membantu masyarakat dalam mencegah anemia secara dini dan turut serta dalam upaya pencegahan
+stunting secara berkelanjutan.
+IV. SIMPULAN
+Penelitian berhasil mengembangkan sebuah aplikasi mobile dengan implementasi kecerdasan buatan
+bernama CeSLA (Cegah Stunting Lewat Anemia) yang mampu mendeteksi kondisi anemia secara non-invasif
+melalui citra konjungtiva. Model klasifikasi yang digunakan merupakan kombinasi arsitektur MobileNetV2 dan
+Support Vector Machine (SVM), yang menunjukkan performa klasifikasi sangat baik dengan nilai precision,
+recall, dan f1-score sebesar 0,92 untuk masing-masing kelas. Model ini diimplementasikan ke dalam sistem
+aplikasi yang tidak hanya menyediakan fitur deteksi anemia secara langsung, tetapi juga dilengkapi dengan fitur
+riwayat deteksi dan artikel kesehatan sebagai media edukatif. Melalui pendekatan ini, CeSLA hadir sebagai
+solusi inovatif yang dapat dimanfaatkan oleh perempuan usia produktif, terutama ibu hamil, sebagai alat bantu
+deteksi dini anemia secara cepat, mudah, dan efisien. Aplikasi ini diharapkan dapat mendukung upaya preventif
+dalam menurunkan angka kejadian anemia dan turut berkontribusi dalam pencegahan stunting di Indonesia.
+Keberhasilan pengembangan sistem ini menunjukkan bahwa integrasi teknologi pengolahan citra dan kecerdasan
+buatan dapat diterapkan secara praktis dalam konteks layanan kesehatan masyarakat. Meskipun demikian, masih
+terdapat beberapa aspek yang dapat dikembangkan pada penelitian dan implementasi selanjutnya. Salah satunya
+adalah pengujian usability terhadap aplikasi untuk menilai kenyamanan dan pengalaman pengguna secara
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+724
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+menyeluruh. Selain itu, dengan adanya keterbatasan jumlah dan variasi dataset, memerlukan adanya
+pengembangan dataset lokal dengan populasi target yang lebih representatif (seperti ibu hamil di berbagai
+wilayah Indonesia). Variasi dataset lokal nantinya dapat meningkatkan akurasi model. Aplikasi juga dapat
+dikembangkan lebih lanjut dengan fitur pemantauan kesehatan berkala, konsultasi dokter, lokasi fasilitas
+kesehatan terdekat, integrasi sistem rekam medis, serta peningkatan performa model. Validasi medis atau uji
+klinis dengan tenaga kesehatan juga menjadi langkah penting agar hasil deteksi lebih dapat diandalkan dalam
+praktik lapangan nantinya. Dengan demikian, penelitian ini membuka peluang bagi pengembangan lebih lanjut
+di bidang aplikasi kesehatan berbasis AI yang responsif, adaptif, dan kontekstual terhadap kebutuhan masyarakat
+Indonesia.
+UCAPAN TERIMAKASIH
+Ucapan terima kasih diberikan kepada Politeknik Harapan Bersama yang telah membantu maupun
+memberikan dukungan terhadap penelitian yang dilakukan.
+DAFTAR PUSTAKA
+[1] R. Cholidah, A. Danianto, R. D. Ayunda, and D. Rahmadhona, “History of Anemia in Pregnancy with Stunting Incidents in
+Toddlers at Nipah Community Health Center, Malaka, North Lombok Regency,” J. Penelit. Pendidik. IPA, vol. 9, no. 12, pp.
+12226–12231, 2023, doi: 10.29303/jppipa.v9i12.4946.
+[2] N. Reviani and C. H. Tampubolon, “The Influence of a History of Anemia during Pregnancy on Stunting Incidents,” Int. J. Trop.
+Dis. Heal., vol. 46, no. 3, pp. 29–36, Feb. 2025, doi: 10.9734/ijtdh/2025/v46i31634.
+[3] L. H. Adilah, A. Syafiq, and S. Sukoso, “Correlation of Anemia in Pregnant Women with Stunting Incidence: A Review,” Indones.
+J. Multidiscip. Sci., vol. 2, no. 9, pp. 3155–3169, Jul. 2023, doi: 10.55324/IJOMS.V2I9.545.
+[4] J. Penelitian Kesehatan Suara Forikes ---------------Volume, J. Penelitian Kesehatan Suara Forikes ------, H. Azzahra, L. Hidayati,
+and E. Nur Widiyaningsih, “Kejadian Anemia pada Masa Kehamilan sebagai Faktor Risiko Balita Stunting di Kota Surakarta,” J.
+Penelit. Kesehat. “SUARA FORIKES” (Journal Heal. Res. “Forikes Voice”), vol. 15, no. 4, pp. 786–790, Dec. 2024, doi:
+10.33846/SF15444.
+[5] S. R. Nadhiroh, F. Micheala, S. E. H. Tung, and T. C. Kustiawan, “Association between maternal anemia and stunting in infants
+and children aged 0–60 months: A systematic literature review,” Nutrition, vol. 115, Nov. 2023, doi: 10.1016/j.nut.2023.112094.
+[6] I. I. Putra, J. M. M. Sondakh, and J. J. Kaeng, “Anemia in Pregnancy and Its Maternal Perinatal Outcome,” Indones. J. Obstet.
+Gynecol., vol. 12, no. 3, pp. 141–146, Jul. 2024, doi: 10.32771/INAJOG.V12I3.1989.
+[7] A. Setiyaningsih et al., “HUBUNGAN KADAR HEMOGLOBIN IBU HAMIL DENGAN KEJADIAN STUNTING PADA
+BALITA DI PUSKESMAS NGEMPLAK,” J. Komun. Kesehat., vol. 14, no. 1, pp. 26–36, Apr. 2023, doi:
+10.56772/JKK.V14I1.317.
+[8] F. Adhimukti, U. R. Budihastuti, and B. Murti, “Meta-Analysis: The Effect of Anemia in Pregnant Women on the Risk of
+Postpartum Bleeding and Low Birth Weight,” J. Matern. Child Heal., vol. 8, no. 1, pp. 58–69, Jan. 2023, doi:
+10.26911/THEJMCH.2023.08.01.06.
+[9] G. T. J. Salakory and I. B. E. U. Wija, “Hubungan Anemia Pada Ibu Hamil Terhadap Kejadian Stunting di RS Marthen Indey
+Jayapura Tahun 2018-2019,” Maj. Kedokt. UKI, vol. 37, no. 1, pp. 9–12, Sep. 2021, doi: 10.33541/MK.V37I1.3365.
+[10] M. Hastuty, U. Pahlawan, and T. Tambusai, “HUBUNGAN ANEMIA IBU HAMIL DENGAN KEJADIAN STUNTING PADA
+BALITA DI UPTD PUSKESMAS KAMPAR TAHUN 2018,” J. Doppler, vol. 4, no. 2, pp. 112–116, Nov. 2020, Accessed: May
+26, 2025. [Online]. Available: https://journal.universitaspahlawan.ac.id/doppler/article/view/1046.
+[11] S. D. S. Syarifuddin, A. Khurniawan, R. Munadi, and S. Sussi, “Sistem Informasi Pengukuran Kadar Hemoglobin Non-Invasif
+Berbasis Android Menggunakan Algoritma Extreme Gradient Boosting,” Komputika J. Sist. Komput., vol. 12, no. 1, pp. 13–23,
+May 2023, doi: 10.34010/komputika.v12i1.5049.
+[12] M. A. Priyadarshini, S. Salma, D. Sailesh, E. Manasa, G. L. Charan, and B. Dinesh, “A Visionary Approach to Anemia Detection:
+Integrating Eye Condition Data and Machine Learning,” no. Icciet 2024, Atlantis Press International BV, 2024, pp. 781–793.
+[13] J. W. Asare, P. Appiahene, and E. T. Donkoh, “Detection of anaemia using medical images: A comparative study of machine
+learning algorithms – A systematic literature review,” Informatics Med. Unlocked, vol. 40, p. 101283, Jan. 2023, doi:
+10.1016/J.IMU.2023.101283.
+[14] M. Mansour, T. B. Donmez, M. Kutlu, and S. Mahmud, “Non-invasive detection of anemia using lip mucosa images transfer
+learning convolutional neural networks,” Front. Big Data, vol. 6, p. 1291329, 2023, doi: 10.3389/FDATA.2023.1291329.
+[15] S. Aiwale et al., “Noninvasive Anemia Detection and Prediagnosis,” J. Pharmacol. Pharmacother., Dec. 2024, doi:
+10.1177/0976500X241276307/ASSET/E963B5CF-995B-4B09-AD87-
+D3A9561B4FCD/ASSETS/IMAGES/LARGE/10.1177_0976500X241276307-FIG4.JPG.
+[16] G. Dimauro, M. E. Griseta, M. G. Camporeale, F. Clemente, A. Guarini, and R. Maglietta, “An intelligent non-invasive system for
+automated diagnosis of anemia exploiting a novel dataset,” Artif. Intell. Med., vol. 136, p. 102477, Feb. 2023, doi:
+10.1016/J.ARTMED.2022.102477.
+[17] S. Das, F. Ahamed, A. Das, D. Das, J. Nandi, and K. Banerjee, “NiADA (Non-invasive Anemia Detection App), a Smartphone-
+Based Application With Artificial Intelligence to Measure Blood Hemoglobin in Real-Time: A Clinical Validation,” Cureus, vol.
+16, no. 7, Jul. 2024, doi: 10.7759/cureus.65442.
+[18] S. Hajrianti, M. N. Widyawati, and K. Kurnianingsih, “Deteksi Anemia pada Ibu Hamil Mengunakan Metode Non Invasif Berbasis
+Kecerdasan Artifisial,” J. Telenursing, vol. 5, no. 2, pp. 3568–3577, Dec. 2023, doi: 10.31539/joting.v5i2.7468.
+[19] H. Z. Ilmadina, M. Naufal, and D. S. Wibowo, “Drowsiness Detection Based on Yawning Using Modified Pre-trained Model
+MobileNetV2 and ResNet50,” MATRIK J. Manajemen, Tek. Inform. dan Rekayasa Komput., vol. 22, no. 3, pp. 419–430, Jun.
+2023, doi: 10.30812/MATRIK.V22I3.2785.
+[20] E. P. A. Meindiawan and M. Muljono, “Application of MobileNetV2 and SVM Combination for Enhanced Accuracy in Pneumonia
+Classification,” J. Appl. Informatics Comput., vol. 8, no. 2, pp. 332–340, Nov. 2024, doi: 10.30871/JAIC.V8I2.8426.
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+725
+
+Jurnal Informatika: Jurnal pengembangan IT
+Vol. 10, No. 3, 2025
+[21] C. Singh and A. Bala, “A local Zernike moment-based unbiased nonlocal means fuzzy C-Means algorithm for segmentation of
+brain magnetic resonance images,” Expert Syst. Appl., vol. 118, pp. 625–639, Mar. 2019, doi: 10.1016/j.eswa.2018.10.023.
+[22] S. Studer et al., “Towards CRISP-ML(Q): A Machine Learning Process Model with Quality Assurance Methodology,” Mach.
+Learn. Knowl. Extr., vol. 3, no. 2, pp. 392–413, Jun. 2021, doi: 10.3390/MAKE3020020.
+[23] S. Ki Hong and Y. Lee, “Optimizing Detection: Compact MobileNet Models for Precise Hall Sensor Fault Identification in BLDC
+Motor Drives,” IEEE Access, vol. 12, pp. 77475–77485, 2024, doi: 10.1109/ACCESS.2024.3407766.
+[24] H. Z. Ilmadina, D. Apriliani, and D. S. Wibowo, “Deteksi Pengendara Mengantuk dengan Kombinasi Haar Cascade Classifier dan
+Support Vector Machine,” J. Inform. J. Pengemb. IT, vol. 7, no. 1, pp. 1–7, Jan. 2022, doi: 10.30591/jpit.v7i1.3346.
+[25] Z. Wang, C. Wu, K. Zheng, X. Niu, and X. Wang, “SMOTETomek-Based Resampling for Personality Recognition,” IEEE Access,
+vol. 7, pp. 129678–129689, 2019, doi: 10.1109/ACCESS.2019.2940061.
+[26] M. J. Adamu et al., “Efficient and Accurate Brain Tumor Classification Using Hybrid MobileNetV2–Support Vector Machine for
+Magnetic Resonance Imaging Diagnostics in Neoplasms,” Brain Sci., vol. 14, no. 12, p. 1178, Nov. 2024, doi:
+10.3390/brainsci14121178.
+[27] E. N F et al., “A Hybrid Model using MobileNetv2 and SVM for Enhanced Classification and Prediction of Tomato Leaf Diseases,”
+Int. J. Electr. Electron. Eng., vol. 10, no. 8, pp. 37–50, Sep. 2023, doi: 10.14445/23488379/IJEEE-V10I8P104.
+Hepatika Zidny Ilmadina : CesLA (Cegah Stunting Lewat…
+726
+
+Communnity Development Journal Vol.5 No. 1 Tahun 2024, Hal. 1801-1805
+PEMERIKSAAN HEMOGLOBIN DAN PENDIDIKAN KESEHATAN
+TENTANG ANEMIA PADA REMAJA PUTRI, SEBAGAI UPAYA
+DETEKSI DINI ANEMIA DAN PENINGKATAN TINGKAT
+PENGETAHUAN REMAJA PUTRI TENTANG ANEMIA, DI DESA
+DUKUH KABUPATEN BANDUNG
+Ratih Ruhayati1, Wulan Nur Insani2, Cici Liska3, Indah Rahayu4, Idris Handriana5, Yulia Rais6
+1,2,3,4,5,6)Sekolah Tinggi Kesehatan Indonesia Wirautama
+email: ratihruhayati@gmail.com
+Abstrak
+Anemia adalah keadaan ketika tubuh kekurangan sel darah merah fungsional atau kadar hemoglobin
+(Hb) kurang dari 12 g/dL pada perempuan dan kurang dari 13,5 g/dL pada laki-laki. Masalah anemia
+bukan hanya berlaku pada kelompok usia tertentu, tetapi juga mempengaruhi remaja yang sedang
+berada di fase pertumbuhan dan perkembangan penting. Di Indonesia, anemia rentan terjadi pada
+kelompok remaja. Tidak hanya remaja perempuan, tetapi remaja laki-laki juga berisiko mengalami
+anemia. Hanya saja, prevalensi anemia pada perempuan 6% lebih tinggi daripada laki-laki. Menurut
+data Riset Kesehatan Dasar (Riskesdas) Badan Litbangkes Kemenkes RI tahun 2018, prevalensi
+anemia pada anak usia 5-14 tahun sebesar 26,8% dan pada usia 15-24 tahun sebesar 32%. Dampak
+dari anemia pada remaja putri mungkin tidak dapat langsung terlihat, namun dapat berlangsung lama
+dan mempengaruhi kehidupan remaja selanjutnya. Anemia pada remaja putri dapat berdampak
+panjang bagi dirinya dan juga anak yang dilahirkan kelak. Dampak dari anemia adalah terganggunya
+pertumbuhan dan perkembangan, meningkatnya kerentanan terhadap infeksi karena sistem kekebalan
+tubuh yang menurun, hingga lebih rentan terhadap keracunan. Metode pengabdian ini yaitu
+melaksanakan kegiatan pemeriksaan haemoglobin pada remaja putri dan juga pemberian Pendidikan
+kesehatan mengenai anemia pada remaja putri Kegiatan ini dilakukan terhadap 132 orang remaja putri
+yang bersekolah di SMP Negeri 2 Ibun Kabupaten Bandung serta Remaja putri yang putus sekolah di
+wilayah Desa Dukuh Kabupaten Bandung. Setelah dilakukan pemeriksaan terhadap remaja perempuan
+di Desa Dukuh, dari 132 remaja yang diperiksa hanya 4 orang (3%) yang memiliki kadar haemoglobin
+di bawah normal, yaitu di bawah 12,0 gram/dl. Walaupun demikian pendidikan kesehatan mengenai
+anemia pada remaja tetap dilakukan dengan topik bahasan mengenai pengertian anemia, ciri-ciri
+anemia, dampak anemia dan bagaimana cara mencegah agar tidak terkena anemia. Dengan
+meningkatkan kesadaran tentang anemia, pendekatan pencegahan yang tepat, dan penanganan medis
+yang baik, kita dapat membantu menjaga kesehatan generasi muda ini agar tumbuh dan berkembang
+dengan optimal. Untuk mencegah anemia sangat disarankan untuk memenuhi zat besi dengan cara
+makan makanan bergizi yang seimbang setiap hari.
+Kata kunci : Anemia, Remaja Putri, Pemeriksaan HB, Pendidikan Kesehatan
+Abstract
+Anemia is a condition when the body lacks functional red blood cells or hemoglobin (Hb) levels are
+less than 12 g/dL in women and less than 13.5 g/dL in men. The problem of anemia not only applies to
+certain age groups, but also affects teenagers who are in important phases of growth and development.
+In Indonesia, anemia is prone to occur in teenagers. Not only teenage girls, but teenage boys are also at
+risk of developing anemia. However, the prevalence of anemia in women is 6% higher than in men.
+According to 2018 Basic Health Research data from the Research and Development Agency of the
+Ministry of Health of the Republic of Indonesia, the prevalence of anemia in children aged 5-14 years
+was 26.8% and in children aged 15-24 years it was 32%. The impact of anemia in teenage girls may
+not be immediately visible, but it can last a long time and affect the teenager's future life. Anemia in
+young women can have a long-term impact on them and the children they will bear in the future. The
+impact of anemia is disruption of growth and development, increased susceptibility to infection due to
+a weakened immune system, and greater susceptibility to poisoning. The method of this service is
+carrying out hemoglobin examination activities on adolescent girls and also providing health education
+regarding anemia in adolescent girls. This activity was carried out on 132 adolescent girls who
+attended Junior High School 2 Ibun, Bandung Regency as well as adolescent girls who dropped out of
+school in the Dukuh Village area, Bandung Regency. After examining female teenagers in Dukuh
+Village, of the 132 teenagers examined, only 4 people (3%) had hemoglobin levels below normal,
+P-ISSN 2721-4990| E-ISSN 2721-500 1801
+
+Communnity Development Journal Vol.5 No. 1 Tahun 2024, Hal. 1801-1805
+namely below 12.0 grams/dl. However, health education regarding anemia in adolescents is still
+carried out with discussion topics regarding the meaning of anemia, the characteristics of anemia, the
+impact of anemia and how to prevent anemia. By increasing awareness about anemia, appropriate
+preventive approaches, and good medical treatment, we can help maintain the health of this young
+generation so that they grow and develop optimally. To prevent anemia, it is highly recommended to
+meet your iron needs by eating balanced, nutritious foods every day
+Keyword : anemia, tenaage girl, Hemoglobin examination, Health Education
+PENDAHULUAN
+Anemia adalah keadaan ketika tubuh kekurangan sel darah merah fungsional atau kadar
+hemoglobin (Hb) kurang dari 12 g/dL pada perempuan dan kurang dari 13,5 g/dL pada laki-laki.
+Hemoglobin adalah protein dalam sel darah merah yang berfungsi mengangkut oksigen dari paru-paru
+ke seluruh tubuh. Kekurangan hemoglobin dapat menyebabkan berkurangnya suplai oksigen ke
+jaringan dan organ tubuh. Masalah anemia bukan hanya berlaku pada kelompok usia tertentu, tetapi
+juga mempengaruhi remaja yang sedang berada di fase pertumbuhan dan perkembangan penting. Di
+Indonesia, anemia rentan terjadi pada kelompok remaja. Tidak hanya remaja perempuan, tetapi remaja
+laki-laki juga berisiko mengalami anemia. Hanya saja, prevalensi anemia pada perempuan 6% lebih
+tinggi daripada laki-laki (Kementrian Kesehatan Republik Indonesia, 2016; Ningtyias, 2022)
+Menurut data Riset Kesehatan Dasar (Riskesdas) Badan Litbangkes Kemenkes RI tahun 2018,
+prevalensi anemia pada anak usia 5-14 tahun sebesar 26,8% dan pada usia 15-24 tahun sebesar 32%.
+Dari data tersebut menunjukkan bahwa tiga sampai empat dari sepuluh remaja puteri di Indonesia
+menderita anemia. Rekomendasi World Health Organization (WHO) pada World Health Assembli
+(WHA) ke -65 yang menyepakati rencana aksi dan target global untuk gizi ibu, bayi dan anak dengan
+komitmen mengurangi separuh (50%) prevalensi anemia pada WUS pada tahun 2025.
+Menindaklanjuti rekomendasi tersebut maka pemerintah Indonesia melakukan intensifikasi
+pencegahan dan penaggulangan anemia pada remaja putri dan WUS dengan memprioritaskan
+pemberian Tablet Tambah Darah (TTD) melalui institusi sekolah (Kemenkes RI, 2022)
+Dampak dari anemia pada remaja putri mungkin tidak dapat langsung terlihat, namun dapat
+berlangsung lama dan mempengaruhi kehidupan remaja selanjutnya. Anemia pada remaja putri dapat
+berdampak panjang bagi dirinya dan juga anak yang dilahirkan kelak. Dampak dari anemia adalah
+terganggunya pertumbuhan dan perkembangan, meningkatnya kerentanan terhadap infeksi karena
+sistem kekebalan tubuh yang menurun, hingga lebih rentan terhadap keracunan (Ningtyias, 2022).
+Secara umum, anemia menyebabkan gangguan pertumbuhan, gangguan fungsi kognitif dan
+psikomotorik, penurunan imunitas, serta penurunan produktivitas. Namun, pada remaja perempuan,
+anemia memiliki dampak jangka panjang yang lain, seperti persalinan prematur, peningkatan risiko
+kematian saat melahirkan, serta berat bayi lahir rendah (BBLR) dan stunting. Kekurangan zat besi atau
+anemia yang berlanjut sampai dewasa dan hingga hamil, dapat menimbulkan risiko terhadap bayinya.
+Remaja perempuan yang sudah hamil dan menderita anemia dapat meningkatkan risiko kelahiran
+prematur dan melahirkan bayi dengan berat badan rendah (Nurrahman dkk, 2020).
+Berdasarkan hasil pengabdian kepada masyarakat dari Tia Sabrina dkk pada tahun 2020, tentang
+Pencegahan Penyakit Anemia pada Remaja dengan Pemeriksaan Hemoglobin Awal pada Santri
+Pondok Pesantren Thawalib Sriwijaya Palembang, yang dilakukan terhadap 46 orang santri, bahwa
+terdapat 14 santri (30%) yang memiliki gejala anemia karena kadar haemoglobin yang kurang dari
+normal, yaitu 13 santri laki-laki dan 1 orang santri perempuan.
+Berdasarkan hasil penelitian yang dilakukan oleh Nur Arifah dkk pada tahun 2022, tentang
+Penyuluhan Kesehatan tentang Anemia pada Siswa di SMPN 2 Galesong Selatan Kabupaten Takalar,
+dengan menggunakan Uji Wilcoxon didapatkan hasil bahwa penyuluhan mengenai anemia mampu
+meningkatkan pengetahuan siswi di SMPN 2 Galesong Selatan.
+Pencegahan dan penanggulangan anemia pada remaja putri menjadi salah satu masalah
+kesehatan yang menjadi fokus pemerintah. Kekurangan zat besi merupakan salah satu penyebabnya.
+Hal ini disebabkan oleh gaya hidup remaja termasuk kebiasaan asupan gizi yang kurang memadai,
+kebiasaan minum teh dan kopi, serta kurangnya aktivitas fisik. Di sisi lain, remaja putri membutuhkan
+lebih banyak zat besi pada masa pertumbuhan dan saat kehilangan darah ketika menstruasi. Oleh
+karena itu, remaja putri lebih beresiko tinggi mengalami anemia akibat kekurangan zat besi.
+METODE
+Melihat kondisi di atas, dosen dan mahasiswa Sekolah Tinggi Kesehatan Indonesia Wirautama,
+bekerja sama dengan Puskesmas Ibun Kabupaten Bandung, Bidan Desa Dukuh dan Kepala Sekolah
+P-ISSN 2721-4990| E-ISSN 2721-500 1802
+
+Communnity Development Journal Vol.5 No. 1 Tahun 2024, Hal. 1801-1805
+SMPN 2 Ibun melaksanakan kegiatan pemeriksaan haemoglobin pada remaja putri dan juga
+pemberian Pendidikan kesehatan mengenai anemia pada remaja putri. Kegiatan ini dilakukan terhadap
+132 orang remaja putri yang bersekolah di SMP Negeri 2 Ibun Kabupaten Bandung serta Remaja putri
+yang putus sekolah di wilayah Desa Dukuh Kabupaten Bandung. Adapun tujuan dari kegiatan ini
+adalah :
+a. Meningkatkan derajat kesehatan masyarakat khususnya remaja putri.
+b. Untuk mengukur Kadar Hemoglobin yang ada dalam tubuh.
+c. Sebagai deteksi dini terhadap adanya gejala anemia secara umum.
+d. Peningkatan pengetahuan remaja tentang Anemia
+Model kegiatan pengabdian kepada masyarakat ini menggunakan model pemberdayaan. Dengan
+model ini bekerja sama dengan pihak Puskesmas, Bidan Desa Dukuh, Kepala Sekolah dan masyarakat
+Desa Dukuh. Desa Dukuh merupakan salah satu desa yang berada di wilayah kerja Puskesmas Ibun
+Kabupaten Bandung. Jumlah kepala keluarga : 2395 KK, dengan jumlah laki-laki : 3847 Jiwa dan
+perempuan : 3946 Jiwa. Dengan sebaran berdasarkan usia, usia 0-14 tahun : 2320 Jiwa, usia 15-54 : 5000
+Jiwa dan usia 54 ke atas : 719 Jiwa. Mata pencaharian utamanya adalah petani dengan komoditi
+keunggulan padi dan bawang merah. Mayoritas dengna tingkat Pendidikan Sekolah Dasar/Sederajat yaitu
+sebanyak 1635 Jiwa dan SMP/Sederajat sebanyak 600 Jiwa.
+Adapun metode kegiatan yang digunakan pada kegiatan pengabdian masyarakat ini adalah :
+1. Pemeriksaan Hemoglobin : pemeriksaan ini dilakukan dengan menggunakan alat tes
+haemoglobin sehingga dapat diketahui apakah remaja tersebut mengalami anemia atau tidak.
+2. Ceramah dan Diskusi : Metode ini dipilih untuk menyampaikan konsep-konsep yang penting
+untuk dimengerti dan dikuasai oleh remaja. Penggunaan metode ini dengan pertimbangan
+bahwa metode ceramah yang dikombinasi dengan diskusi dan tampilan power point dilengkapi
+dengan gambar-gambar, animasi dan display dapat memberikan materi yang relative lebih
+banyak dan mudah dipahami oleh remaja. Dan diakhir sesi dilakukan diskusi, untuk menggali
+pemahaman remaja dengan materi yang telah diberikan.
+Adapun media yang digunakan berupa leaflet, yaitu:
+Gambar 1. Cegah Anemia Pada Remaja
+HASIL DAN PEMBAHASAN
+Setelah dilakukan pemeriksaan terhadap remaja perempuan di Desa Dukuh, dari 132 remaja
+yang diperiksa hanya 4 orang (3%) yang memiliki kadar haemoglobin di bawah normal, yaitu di
+bawah 12,0 gram/dl.
+Walaupun demikian pendidikan kesehatan mengenai anemia pada remaja tetap dilakukan
+dengan topik bahasan mengenai pengertian anemia, ciri-ciri anemia, dampak anemia dan bagaimana
+cara mencegah agar tidak terkena anemia. Berikut dokumentasi pelaksanaannya :
+P-ISSN 2721-4990| E-ISSN 2721-500 1803
+
+Communnity Development Journal Vol.5 No. 1 Tahun 2024, Hal. 1801-1805
+Gambar 2. Dokumentasi Kegaitan
+Gambar 3. Dokumentasi KEgaitan
+SIMPULAN
+Anemia pada remaja merupakan masalah kesehatan serius yang mempengaruhi pertumbuhan,
+perkembangan, dan kualitas hidup mereka. Kekurangan zat besi, vitamin B12, atau asam folat adalah
+beberapa penyebab umum anemia pada remaja. Dengan meningkatkan kesadaran tentang anemia,
+pendekatan pencegahan yang tepat, dan penanganan medis yang baik, kita dapat membantu menjaga
+kesehatan generasi muda ini agar tumbuh dan berkembang dengan optimal. Pemerintah, tenaga medis,
+keluarga, dan masyarakat perlu bersinergi dalam memberikan dukungan dan informasi yang
+diperlukan untuk mencegah dan mengatasi anemia pada remaja.
+Masa remaja merupakan masa di mana pertumbuhan terjadi dengan cepat, sehingga kebutuhan
+gizi pada masa ini ikut meningkat, termasuk zat besi. Zat besi dibutuhkan pada semua sel tubuh dan
+merupakan dasar dalam proses fisiologis, seperti pembentukan sel darah merah (hemoglobin) dan
+fungsi enzim. Untuk itu remaja putri disarankan untuk mengkonsumsi zat besi. Asupan zat besi tidak
+hanya digunakan untuk mendukung pertumbuhan, tetapi juga digunakan untuk mengganti zat besi
+yang hilang melalui darah yang keluar saat mengalami menstruasi di setiap bulan. Oleh karena itulah
+remaja putri berisiko mengalami kekurangan zat besi, yang nantinya dapat berkembang menjadi
+anemia.
+Untuk mencegah anemia sangat disarankan untuk memenuhi zat besi dengan cara makan
+makanan bergizi yang seimbang setiap hari. Mulailah dari sarapan yang mengandung makanan sumber
+zat besi, seperti roti atau sayuran berdaun hijau. Selain itu, penting pula untuk mengkonsumsi buah-
+buahan dan sayuran sebanyak 5 porsi per hari untuk memenuhi kebutuhan vitamin dan mineral tubuh.
+Kemudian, sangat disarankan untuk rutin minum Tablet Tambah Darah (TTD) setidaknya sekali
+dalam seminggu.
+DAFTAR PUSTAKA
+Alfiah, S. dan Dainy, N.C. 2023. Asupan Zat Besi, Vitamin C dan Konsumsi Tablet Tambah Darah
+Berhubungan dengan Kejadian Anemia Remaja Putri SMPIT Majmaul Bahrain Bogor. Jurnal Ilmu
+Gizi dan Dietetik, 2(2):103–108.
+P-ISSN 2721-4990| E-ISSN 2721-500 1804
+
+Communnity Development Journal Vol.5 No. 1 Tahun 2024, Hal. 1801-1805
+Arifah Nur dkk, 2022, Penyuluhan Kesehatan tentang Anemia Pada Siswa di SMPN 2 Galesong
+Selatan Kabupaten Takalar, Jurnal ALTIFANI Vol. 2. No.2, Maret 2022 Hal 176-182
+Astuti, E.R. 2023. Literature Review: Faktor-Faktor Penyebab Anemia pada Remaja Putri. Jambura
+Journal of Health Sciences and Research, 5(2):550–561.
+Kementrian Kesehatan Republik Indonesia, 2016, Pedoman Pencegahan dan Penangulangan Anemia
+pada Remaja Putri dan Wanita Usia Subur, Jakarta
+Kemenkes RI. 2022. Riset Kesehatan Dasar Tahun 2018. Jakarta: Kementerian Kesehatan Republik
+Indonesia.
+Kemenkes RI. 2018. Survei Demografi dan Kesehatan Indonesia 2017: Kesehatan Reproduksi
+Remaja. Jakarta: Badan Kependudukan dan Keluarga Berencana Nasional.
+Ningtyias dkk, 2022, Buku Saku Pencegahan Anemia Pada Remaja Putri, Health Advocacy, Yayasan
+Pemberdayaan Kesehatan Masyarakat, Surabaya.
+Nisa, H., Telaumbanua, L., Nurmah, N., Wati, P.K., Akhiriyanti, E.N. dan Rupdi, R. 2020. Edukasi
+Kesehatan tentang Resiko Anemia terhadap Kesehatan Reproduksi Remaja Putri di GOR
+Candrabaga Kota Bekasi Tahun 2019. Jurnal Abdimas Kesehatan Tasikmalaya, 2(2):13–18.
+Nurrahman, N.H., Anugrah, D.S., Adelita, A.P., Sutisna, A.N., Ovtapia, D., Maisaan, F., Wahyudi, K.,
+Nurshifa, G., Sari, H.E., Azrah, M. dan Hidayat, M.S. 2020. Faktor dan Dampak Anemia pada
+Anak-Anak, Remaja, dan Ibu Hamil serta Penyakit yang Berkaitan dengan Anemia. Journal of
+Science, Technology and Entrepreneur, 2(2):46–50.
+Sabrina, Tia dkk, 2020, Pencegahan Penyakit Anemia pada Remaja dengan Pemeriksaan Hemoglobin
+Awal pada Santri Pondok Pesantren Thawalib Sriwijaya Palembang, Jurnal Pengabdian Dharma
+Wacana Volume 1 No.3 (Desember 2020) pp. 125-132
+P-ISSN 2721-4990| E-ISSN 2721-500 1805
+
+MUARA KESEHATAN : Jurnal Ilmiah Ilmu Kesehatan & Medis (MURAKES)
+Volume. 1 Nomor. 1 Juli 2025
+e-ISSN : xxxx-xxxx; p-ISSN : xxxx-xxxx, Hal. 39-50
+DOI: -
+Available online at: https://jurnal.muaraedukasi.id/index.php/murakes
+Identifikasi Dini Anemia melalui Tanda Klinis dan Pemeriksaan
+Hemoglobin pada Siswi Remaja
+Kartika Dewi Sari1*, Luthfi Hasan2
+1,2 STIKES Bhakti Husada Mulia, Madiun, Indonesia
+Jl. Taman Praja No.25, Mojorejo, Kec. Taman, Kota Madiun, Jawa Timur
+Korespondensi penulis: kartika.dewi.sari@stikes-bhm.ac.id
+Abstract: This study employed a descriptive design with a cross-sectional approach. A total of 132 seventh-grade
+female students were selected as samples through random sampling. Data were collected using an anemia
+symptom questionnaire and hemoglobin (Hb) level measurement via a hemoglobinometer. The results indicated
+that 23.5% of the respondents had anemia (Hb < 12 g/dL), while 48.5% reported experiencing anemia symptoms.
+However, further analysis revealed that clinical symptoms demonstrated low sensitivity (39%) and limited
+specificity (19%) in detecting anemia. The Positive Predictive Value (PPV) of 60.93% and Negative Predictive
+Value (NPV) of 8.82% further reinforced that symptoms alone are not a reliable indicator. It was concluded that
+diagnosing anemia based solely on clinical symptoms lacks sufficient accuracy. Hemoglobin level examination
+remains a more valid and objective screening method for early detection of anemia in adolescent girls. In addition
+to medical interventions, awareness-raising efforts through education about anemia, its causes, and prevention
+for students, parents, and teachers are highly recommended. Addressing nutritional deficiencies, particularly
+iron, through dietary improvements and supplementation programs is an essential step in combating anemia in
+this group.
+Keywords: Anemia, Early Detection, Clinical Symptoms, Hemoglobin, Adolescent Girls.
+Abstrak. Studi ini menggunakan desain deskriptif dengan pendekatan cross-sectional. Sebanyak 132 siswi kelas
+tujuh dipilih sebagai sampel secara acak. Pengumpulan data dilakukan melalui kuesioner gejala anemia dan
+pengukuran kadar Hb menggunakan hemoglobinometer. Hasil penelitian menunjukkan bahwa 23,5% responden
+menderita anemia (Hb < 12 g/dL), sementara 48,5% melaporkan adanya gejala anemia. Namun, analisis lebih
+lanjut mengungkapkan bahwa gejala klinis memiliki sensitivitas yang rendah (39%) dan spesifisitas terbatas
+(19%) dalam mendeteksi anemia. Nilai Prediksi Positif (PPV) sebesar 60,93% dan Nilai Prediksi Negatif (NPV)
+sebesar 8,82% memperkuat temuan bahwa gejala saja bukan indikator yang andal. Disimpulkan bahwa diagnosis
+anemia yang hanya mengandalkan gejala klinis tidak memiliki akurasi yang memadai. Pemeriksaan kadar
+hemoglobin tetap merupakan metode skrining yang lebih valid dan objektif untuk deteksi dini anemia pada remaja
+putri. Di samping intervensi medis, upaya peningkatan kesadaran melalui edukasi mengenai anemia, penyebab,
+dan pencegahannya bagi siswa, orang tua, dan guru sangat dianjurkan. Penanganan defisiensi nutrisi, khususnya
+zat besi, melalui perbaikan pola makan dan program suplementasi, merupakan langkah esensial dalam
+menanggulangi anemia pada kelompok ini.
+Kata Kunci: Anemia, Deteksi Dini, Gejala Klinis, Hemoglobin, Remaja Putri.
+1. LATAR BELAKANG
+Anemia pada remaja telah menjadi tantangan kesehatan global yang mengkhawatirkan.
+Laporan World Health Statistics (WHO, 2021) mengungkapkan bahwa sekitar 29,9% populasi
+dunia menderita anemia, dengan beban tertinggi di negara berkembang. Kondisi ini tidak hanya
+mempengaruhi kesehatan individu, tetapi juga mengancam kualitas sumber daya manusia suatu
+bangsa, khususnya pada kelompok remaja putri. Variasi prevalensi anemia di berbagai negara
+menunjukkan kompleksitas masalah ini, dari Burkina Faso yang mencapai 50% hingga Kuwait
+sebesar 8,1%, mencerminkan disparitas dalam pola konsumsi, akses layanan kesehatan, dan
+kesadaran masyarakat (Alkazemi et al., 2021).
+Received: June 15, 2025; Revised: June 20, 2025; Accepted: July 01, 2025; Online Available: July 08, 2025;
+Published: July 30, 2025;
+
+Identifikasi Dini Anemia melalui Tanda Klinis dan Pemeriksaan Hemoglobin pada Siswi Remaja
+Deteksi dini merupakan strategi fundamental dalam pengendalian anemia. Pendekatan
+ini bertujuan mengidentifikasi masalah secara dini sebelum berkembang menjadi kondisi yang
+lebih serius, sehingga intervensi dapat segera dilakukan untuk mencegah komplikasi dan
+meningkatkan kualitas hidup. Pentingnya deteksi dini pada remaja semakin krusial mengingat
+dampak jangka panjang anemia terhadap gangguan kognitif, penurunan prestasi akademik, dan
+risiko kesehatan di masa depan (Mohamed Abdallh Ali et al., 2022).
+Situasi di Indonesia menunjukkan beban anemia yang signifikan pada remaja. Survei
+Kesehatan Indonesia (SKI) tahun 2022 mencatat prevalensi anemia sebesar 18,0% pada remaja
+putri dan 14,4% pada remaja laki-laki. Data lokal Kota Madiun tahun 2019 melaporkan kasus
+anemia remaja sebanyak 1,77% (Anisa Yulianti et al., 2024). Faktor determinan yang berperan
+meliputi asupan nutrisi (energi, protein, zat besi, vitamin C), kebiasaan konsumsi minuman
+penghambat absorpsi zat besi, dan pola menstruasi. Dampak klinis yang muncul berupa
+gangguan konsentrasi, penurunan daya tahan fisik, dan hambatan dalam aktivitas pembelajaran
+(Budiarti et al., 2021).
+Rendahnya kesadaran akan pentingnya suplementasi zat besi memperparah situasi ini.
+Beberapa studi menunjukkan bahwa minimnya pemahaman tentang program suplementasi zat
+besi dan asam folat menjadi faktor penghambat pemanfaatan layanan kesehatan (Mohebi et al.,
+2018). Peningkatan literasi gizi remaja dan edukasi orang tua, terutama ibu, berperan penting
+dalam pencegahan anemia melalui pemilihan pola makan yang tepat (Kusuma & Kartini, 2021;
+Nair & Doibale, 2023).
+Di tingkat lokal, Puskesmas Padang Selasa mencatat 53 kasus anemia yang termasuk
+dalam 10 besar masalah kesehatan utama (Zaini Miftach, 2022). Kondisi ini mengindikasikan
+perlunya upaya deteksi dini melalui pemeriksaan hemoglobin dan edukasi yang komprehensif.
+Sayangnya, penelitian tentang deteksi dini anemia masih terbatas, dan kesadaran masyarakat,
+khususnya remaja, terhadap gejala anemia relatif rendah.
+Program edukasi gizi terbukti efektif dalam meningkatkan kesadaran tentang pola makan
+sehat dan pencegahan anemia. Intervensi terstruktur mampu meningkatkan pengetahuan
+remaja tentang pentingnya gizi seimbang (Amrita, 2024). Pendekatan berbasis sekolah melalui
+kampanye kesehatan rutin juga menunjukkan hasil positif, mengingat sekolah merupakan
+lingkungan strategis untuk menanamkan kebiasaan hidup sehat (Kshatri et al., 2022).
+40 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+e-ISSN : XXXX-XXXX; p-ISSN : XXXX-XXXX , Hal. 39-50
+2. KAJIAN TEORITIS
+2.1. Konsep Anemia
+Anemia merupakan kondisi medis ketika kadar hemoglobin (Hb) dalam darah berada di
+bawah batas normal, sehingga kemampuan darah untuk mengangkut oksigen ke jaringan tubuh
+berkurang (World Health Organization, 2020). Kadar hemoglobin normal untuk perempuan
+remaja umumnya ≥12 g/dL. Penurunan kadar hemoglobin dapat disebabkan oleh kekurangan
+zat besi, kehilangan darah, atau gangguan pembentukan sel darah merah (Proverawati &
+Asfuah, 2017).
+Anemia pada remaja merupakan masalah kesehatan masyarakat karena berdampak
+terhadap daya tahan tubuh, kemampuan belajar, serta produktivitas di masa depan (Kemenkes
+RI, 2021).
+2.2. Anemia pada Remaja Putri
+Remaja putri termasuk kelompok yang paling rentan terhadap anemia karena mengalami
+menstruasi secara rutin, diiringi dengan kebutuhan zat besi yang meningkat akibat
+pertumbuhan tubuh yang pesat (Rahmawati & Hidayati, 2020). Selain itu, pola makan yang
+kurang seimbang, rendahnya konsumsi makanan sumber zat besi (daging merah, hati, sayuran
+hijau), serta kebiasaan diet ekstrem turut memperburuk kondisi ini (Sari & Rahmadani, 2021).
+Data RISKESDAS (2018) menunjukkan bahwa prevalensi anemia pada remaja putri di
+Indonesia mencapai lebih dari 30%, yang tergolong dalam kategori masalah kesehatan
+masyarakat yang serius.
+2.3. Deteksi Dini Anemia
+Deteksi dini merupakan upaya penting untuk menemukan kasus anemia sebelum
+menimbulkan komplikasi serius. Identifikasi dini dapat dilakukan melalui dua pendekatan,
+yaitu berdasarkan tanda dan gejala klinis serta melalui pemeriksaan kadar hemoglobin
+(Kemenkes RI, 2019).
+a. Deteksi Berdasarkan Tanda Klinis
+Tanda dan gejala anemia umumnya meliputi pucat pada konjungtiva mata dan kuku,
+mudah lelah, pusing, sesak napas, serta penurunan konsentrasi (Suwandi et al., 2018).
+Meskipun demikian, tanda klinis bersifat subjektif dan sensitivitasnya dalam mendeteksi
+anemia relatif rendah, sehingga diperlukan metode objektif untuk memastikan diagnosis.
+41 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+Identifikasi Dini Anemia melalui Tanda Klinis dan Pemeriksaan Hemoglobin pada Siswi Remaja
+b. Pemeriksaan Kadar Hemoglobin (Hb)
+Pemeriksaan kadar hemoglobin merupakan metode objektif yang paling umum
+digunakan untuk menegakkan diagnosis anemia. Pemeriksaan Hb dapat dilakukan
+menggunakan alat hemoglobinometer atau melalui pemeriksaan laboratorium dengan metode
+cyanmethemoglobin (WHO, 2011). Nilai Hb < 12 g/dL pada remaja putri menandakan adanya
+anemia (Depkes RI, 2020).
+2.4. Dampak Anemia pada Remaja Putri
+Anemia dapat menyebabkan penurunan kemampuan belajar, gangguan konsentrasi,
+kelelahan, penurunan daya tahan tubuh, hingga berisiko terhadap gangguan pertumbuhan dan
+kesehatan reproduksi di masa depan (Sundari et al., 2020). Dalam jangka panjang, anemia
+defisiensi besi yang tidak ditangani dapat mengganggu perkembangan otak serta menurunkan
+produktivitas ekonomi (WHO, 2020).
+2.5. Upaya Pencegahan dan Penanggulangan Anemia
+Upaya pencegahan anemia pada remaja putri meliputi intervensi gizi dan non-gizi.
+Intervensi gizi dilakukan dengan peningkatan konsumsi makanan sumber zat besi dan vitamin
+C yang membantu penyerapan zat besi (Kemenkes RI, 2022). Selain itu, pemerintah juga
+menjalankan program pemberian tablet tambah darah (TTD) secara rutin kepada remaja putri
+di sekolah.
+Intervensi non-gizi mencakup edukasi kesehatan, promosi perilaku hidup sehat, serta
+peningkatan kesadaran mengenai pentingnya pemeriksaan Hb secara berkala (Fitriani &
+Lestari, 2020).
+2.6. Kerangka Teoretis
+Penelitian ini berlandaskan pada teori konsep kesehatan preventif (Leavell & Clark,
+1965), yang menekankan pentingnya pencegahan primer melalui deteksi dini dan promosi
+kesehatan. Dengan melakukan pemeriksaan tanda klinis dan kadar hemoglobin sejak dini,
+anemia dapat diidentifikasi lebih cepat sehingga intervensi dapat dilakukan sebelum kondisi
+menjadi parah.
+42 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+e-ISSN : XXXX-XXXX; p-ISSN : XXXX-XXXX , Hal. 39-50
+2.7. Relevansi Teori dengan Penelitian
+Kajian teoritis di atas mendukung pentingnya identifikasi dini anemia pada siswi remaja
+sebagai bentuk deteksi awal terhadap gangguan kesehatan yang berpotensi menghambat
+prestasi akademik dan perkembangan fisik. Melalui kombinasi observasi gejala klinis dan
+pemeriksaan kadar hemoglobin, penelitian ini diharapkan dapat memberikan gambaran
+mengenai efektivitas kedua pendekatan dalam mendeteksi anemia secara cepat dan akurat di
+lingkungan sekolah.
+3. METODE PENELITIAN
+Penelitian ini menggunakan metode deskriptif dengan pendekatan cross-sectional untuk
+mengetahui hasil deteksi dini anemia berdasarkan tanda-tanda klinis dan pemeriksaan kadar
+hemoglobin (Hb) pada remaja putri. Kegiatan penelitian dilaksanakan pada bulan Februari
+hingga Juni 2025 di SMP Negeri 8 Madiun, yang berada dalam wilayah kerja Puskesmas Kota
+Madiun.
+Populasi penelitian mencakup seluruh siswi kelas VII sebanyak 174 orang, dengan
+jumlah sampel yang ditentukan menggunakan rumus Slovin pada tingkat kesalahan 5%,
+sehingga diperoleh 132 responden. Teknik pengambilan sampel dilakukan secara simple
+random sampling, agar setiap siswi memiliki peluang yang sama untuk terpilih menjadi
+responden.
+Kriteria inklusi meliputi siswi kelas VII yang bersedia menjadi partisipan, hadir saat
+pengambilan data, dan memperoleh izin dari wali kelas. Data dikumpulkan melalui kuesioner
+tanda dan gejala anemia serta pemeriksaan kadar Hb. Kuesioner memuat pertanyaan terkait
+keluhan umum seperti mudah lelah, pusing, wajah pucat, berkunang-kunang, dan sesak napas.
+Pemeriksaan kadar Hb dilakukan menggunakan hemoglobinometer digital, dan seseorang
+dikategorikan anemia apabila kadar Hb-nya kurang dari 12 g/dL, sesuai standar World Health
+Organization (WHO).
+Variabel penelitian terdiri dari tanda dan gejala anemia sebagai variabel independen,
+serta status anemia berdasarkan kadar Hb sebagai variabel dependen. Selain itu, dikaji pula
+karakteristik responden seperti usia, pendidikan orang tua, dan pendapatan keluarga. Analisis
+data dilakukan secara univariat untuk menggambarkan distribusi frekuensi masing-masing
+variabel, serta bivariat untuk menilai ketepatan tanda gejala dalam mendeteksi anemia melalui
+perhitungan sensitivitas, spesifisitas, nilai prediksi positif (PPV), dan nilai prediksi negatif
+(NPV).
+43 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+Identifikasi Dini Anemia melalui Tanda Klinis dan Pemeriksaan Hemoglobin pada Siswi Remaja
+4. HASIL DAN PEMBAHASAN
+4.1. Hasil
+Berdasarkan karakteristik responden, sebagian besar adalah remaja putri berusia 13 tahun
+(65,9%) dan 12 tahun (32,6%), sehingga kelompok usia terbanyak merupakan remaja awal
+kelas VII. Pendidikan orang tua mayoritas adalah SMA/sederajat (64,4%), dengan sebagian
+kecil berpendidikan SMP (11,4%) dan perguruan tinggi (24,2%). Sementara itu, lebih dari
+separuh responden (58,3%) memiliki orang tua dengan pendapatan di atas Rp 3.916.635,48,
+yang mencerminkan kondisi sosial ekonomi relatif baik.
+Dari aspek kesehatan, hampir setengah responden (48,5%) menunjukkan gejala klinis
+anemia, namun hanya 23,5% yang terkonfirmasi anemia berdasarkan pemeriksaan kadar
+hemoglobin (Hb ≤ 12 g/dL). Perbedaan ini memperlihatkan bahwa diagnosis anemia tidak
+dapat hanya mengandalkan gejala klinis, tetapi harus divalidasi melalui pemeriksaan
+laboratorium (Hidayati, 2019). Meskipun demikian, proporsi tinggi responden dengan gejala
+anemia menegaskan pentingnya skrining dini, karena gejala dapat muncul sebelum penurunan
+kadar Hb yang signifikan.
+Gejala anemia seperti pucat pada kelopak mata, pusing, berkunang-kunang, kelelahan,
+dan kelemahan fisik umum terjadi pada remaja putri, khususnya setelah mulai mengalami
+menstruasi. Dari 132 responden, sebanyak 31 orang (23,5%) mengalami anemia secara medis,
+sedangkan 64 orang (48,5%) menunjukkan gejala anemia melalui kuesioner. Temuan ini
+menandakan bahwa tanda-tanda fisik dapat menjadi indikator awal penting, meskipun tidak
+selalu konsisten dengan hasil laboratorium (Hidayati, 2019).
+Remaja putri merupakan kelompok yang rentan terhadap anemia defisiensi besi, terutama
+ketika kebutuhan zat besi meningkat selama masa pubertas dan tidak diimbangi dengan asupan
+gizi yang cukup (Mirani et al., 2021). Kekurangan hemoglobin berdampak pada penurunan
+konsentrasi, prestasi akademik, serta produktivitas (Yana et al., 2023). Dalam jangka panjang,
+kondisi ini dapat berimplikasi pada kesehatan reproduksi di masa depan, seperti risiko anemia
+kehamilan dan bayi berat lahir rendah (BBLR) (Solehati et al., 2018; Asmin et al., 2021).
+Faktor pendidikan dan ekonomi orang tua juga berpengaruh terhadap status gizi remaja.
+Orang tua dengan pendidikan tinggi, khususnya ibu, lebih sadar akan pentingnya konsumsi
+tablet tambah darah (TTD) dan pola makan bergizi seimbang (Samputri & Herdiani, 2022).
+Kondisi ekonomi yang baik memudahkan keluarga menyediakan sumber zat besi seperti
+daging, sayuran hijau, dan suplemen, sedangkan keluarga berpenghasilan rendah lebih berisiko
+mengalami kekurangan gizi (Sari & Safriana, 2023).
+44 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+e-ISSN : XXXX-XXXX; p-ISSN : XXXX-XXXX , Hal. 39-50
+4.2. Uji Validitas Instrumen Skrining
+Analisis validitas instrumen dilakukan untuk menilai akurasi skrining anemia
+berdasarkan gejala klinis dengan pemeriksaan Hb sebagai gold standard. Hasil uji
+menunjukkan bahwa nilai sensitivitas mencapai 80,65%, menandakan bahwa gejala klinis
+cukup baik dalam mengenali siswi yang benar-benar mengalami anemia, meskipun 19,35%
+kasus masih tidak terdeteksi. Nilai spesifisitas sebesar 61,39% menunjukkan kemampuan
+moderat dalam mengidentifikasi siswi yang tidak anemia, sementara nilai prediktif positif
+(PPV) sebesar 39,06% menandakan bahwa hanya sekitar 4 dari 10 siswi dengan gejala anemia
+benar-benar mengalami anemia secara medis. Sebaliknya, nilai prediktif negatif (NPV) tinggi,
+yaitu 91,18%, yang berarti sebagian besar siswi tanpa gejala memang memiliki kadar Hb
+normal.
+Hasil ini menunjukkan bahwa skrining berbasis gejala klinis memiliki kepekaan yang
+cukup tinggi untuk deteksi awal anemia, namun akurasi masih terbatas karena rendahnya nilai
+PPV. Oleh sebab itu, pemeriksaan kadar hemoglobin tetap menjadi langkah wajib untuk
+memastikan diagnosis secara objektif (Hidayati, 2019).
+Secara praktis, skrining gejala dapat dijadikan metode awal sederhana, cepat, dan
+ekonomis di sekolah-sekolah untuk menjaring kasus anemia pada remaja putri. Namun, hasil
+skrining harus ditindaklanjuti dengan pemeriksaan Hb, agar intervensi gizi dan tindak lanjut
+medis dapat diberikan secara tepat dan efektif.
+5. KESIMPULAN DAN SARAN
+5.1. Kesimpulan
+a. Berdasarkan hasil penelitian yang dilakukan, terungkap bahwa prevalensi anemia
+pada siswi kelas 7 di SMPN 8 Madiun mencapai 23,5%. Angka ini mengindikasikan
+bahwa hampir satu dari empat remaja putri di sekolah tersebut mengalami kondisi
+anemia. Temuan ini mempertegas betapa pentingnya perhatian terhadap masalah
+kesehatan ini di kalangan remaja putri.
+b. Analisis lebih lanjut menunjukkan bahwa gejala klinis memang memiliki sensitivitas
+yang cukup tinggi dalam mengidentifikasi anemia, artinya sebagian besar siswi yang
+anemia memang menunjukkan gejala tertentu. Namun demikian, nilai spesifisitas dan
+nilai prediktif positif yang rendah menjadi catatan penting. Hal ini berarti banyak juga
+siswi yang memiliki gejala serupa tetapi tidak terbukti anemia, sehingga diagnosis
+tidak dapat hanya mengandalkan observasi gejala semata. Pemeriksaan hemoglobin
+45 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+Identifikasi Dini Anemia melalui Tanda Klinis dan Pemeriksaan Hemoglobin pada Siswi Remaja
+tetap menjadi gold standard yang harus dilakukan untuk memastikan diagnosis
+anemia.
+c. Implikasi dari temuan ini menekankan pada pentingnya implementasi program deteksi
+dini anemia di lingkungan sekolah melalui pemeriksaan laboratorium secara berkala.
+Selain itu, edukasi mengenai gizi seimbang dan peran aktif orang tua dalam memantau
+status kesehatan remaja putri juga menjadi komponen kunci dalam penanggulangan
+masalah ini.
+d. Penelitian ini memiliki beberapa keterbatasan, terutama pada desain studi potong
+lintang (cross-sectional) yang tidak dapat menggambarkan hubungan kausal, serta
+cakupan sampel yang terbatas pada satu sekolah saja. Oleh karena itu, interpretasi
+hasil perlu dilakukan dengan kehati-hatian. Untuk penelitian mendatang, disarankan
+menggunakan desain longitudinal yang dapat memantau perkembangan status anemia
+dari waktu ke waktu, dengan cakupan sampel yang lebih luas dan mengkaji faktor-
+faktor determinan lain seperti pola konsumsi zat besi, faktor penghambat penyerapan
+zat besi, serta evaluasi efektivitas program suplementasi tablet tambah darah yang
+telah berjalan.
+5.2. Saran
+Berdasarkan kesimpulan di atas, maka dapat diajukan beberapa saran sebagai berikut:
+5.2.1. Saran untuk Pihak Sekolah dan Dinas Kesehatan
+Berdasarkan temuan bahwa hampir satu dari empat siswi mengalami anemia, disarankan
+kepada pihak sekolah untuk:
+a. Melaksanakan skrining hemoglobin rutin setahun sekali sebagai bagian dari program
+Usaha Kesehatan Sekolah (UKS), khususnya bagi siswi remaja putri
+b. Mengintegrasikan edukasi gizi seimbang dalam kurikulum pembelajaran, dengan
+penekanan pada pentingnya asupan zat besi dan vitamin C
+c. Membentuk program pendampingan gizi yang melibatkan guru, orang tua, dan tenaga
+kesehatan
+5.2.2. Saran untuk Tenaga Kesehatan
+Mengingat rendahnya nilai spesifisitas dan nilai prediktif positif gejala klinis:
+a. Diagnosis anemia harus dikonfirmasi dengan pemeriksaan hemoglobin dan tidak cukup
+hanya berdasarkan gejala klinis
+46 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+e-ISSN : XXXX-XXXX; p-ISSN : XXXX-XXXX , Hal. 39-50
+b. Perlu dikembangkan protokol skrining anemia di puskesmas dan fasilitas kesehatan primer
+yang mencakup pemeriksaan laboratorium sederhana
+c. Peningkatan kapasitas kader kesehatan sekolah dalam deteksi dini masalah gizi remaja
+5.2.3. Saran untuk Penelitian Lanjutan
+Mengingat keterbatasan desain penelitian ini:
+a. Perlu penelitian lanjutan dengan desain kohort/longitudinal untuk mempelajari faktor
+risiko dan determinan anemia secara lebih komprehensif
+b. Penelitian dengan cakupan sampel yang lebih luas dan multi-center untuk
+mendapatkan gambaran yang lebih representatif
+c. Eksplorasi faktor-faktor lain seperti pola konsumsi zat besi, pengetahuan gizi, dan
+kepatuhan suplementasi tablet tambah darah
+d. Studi intervensi untuk menguji efektivitas model penanggulangan anemia berbasis
+sekolah yang terintegrasi
+5.2.4. Saran untuk Orang Tua dan Masyarakat
+a. Meningkatkan pemantauan asupan gizi anak remaja, khususnya makanan kaya zat besi
+b. Membangun komunikasi aktif dengan pihak sekolah mengenai perkembangan kesehatan
+anak.
+c. Berperan aktif dalam program suplementasi dan edukasi gizi yang diselenggarakan oleh
+puskesmas dan sekolah.
+d. Dengan implementasi saran-saran tersebut, diharapkan dapat menurunkan prevalensi
+anemia pada remaja putri dan meningkatkan kualitas kesehatan generasi muda.
+DAFTAR REFERENSI
+Alkazemi, D., Rahman, A., & Habra, B. (2021). Alterations in glutathione redox homeostasis
+among adolescents with obesity and anemia. Scientific Reports, 11(1), 1–12.
+https://doi.org/10.1038/s41598-021-82579-5
+Amrita. (2024). Awareness on Nutritional Anemia and its Prevention among Adolescent Girls.
+Advanced International Journal of Multidisciplinary Research, 2(1), 925–929.
+https://doi.org/10.62127/aijmr.2024.v02i01.1013
+Anisa Yulianti, Siti Aisyah, & Sri Handayani. (2024). Faktor-Faktor yang Berhubungan
+dengan Anemia pada Remaja Putri. Lentera Perawat, 5(1), 10–17.
+https://doi.org/10.52235/lp.v5i1.276
+Asmanidar, A., Sasmita, Y., & Lizam, T. C. (2023). Edukasi Upaya Pencegahan Anemia pada
+Santriwati di Dayah Pasantren Darul Wustha Kecamatan Labuhan Haji Barat
+47 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+Identifikasi Dini Anemia melalui Tanda Klinis dan Pemeriksaan Hemoglobin pada Siswi Remaja
+Kabupaten Aceh selatan. Jurnal Pengabdian Multidisiplin, 3(2), 1–7.
+https://doi.org/10.51214/japamul.v3i2.656
+Asmin, E., Salulinggi, A., Titaley, C. R., & Bension, J. (2021). Hubungan Pengetahuan Dan
+Kepatuhan Ibu Hamil Konsumsi Tablet Tambah Darah Dengan Kejadian Anemia Di
+Kecamatan Leitimur Selatan Dan Teluk Ambon. Jurnal Epidemiologi Kesehatan
+Komunitas, 6(1), 229–236. https://doi.org/10.14710/jekk.v6i1.10180
+Ataga, K. I., Gordeuk, V. R., Agodoa, I., Colby, J. A., Gittings, K., & Allen, I. E. (2020). Low
+hemoglobin increases risk for cerebrovascular disease, kidney disease, pulmonary
+vasculopathy, and mortality in sickle cell disease: A systematic literature review and
+meta-analysis. PLoS ONE, 15(4), 1–17. https://doi.org/10.1371/journal.pone.0229959
+Budiarti, A., Anik, S., & Wirani, N. P. G. (2021). Studi Fenomenologi Penyebab Anemia Pada
+Remaja Di Surabaya. Jurnal Kesehatan Mesencephalon, 6(2).
+https://doi.org/10.36053/mesencephalon.v6i2.246
+Cia, A., Annisa, H. N., & Lion, H. F. (2022). Asupan Zat Besi dan Prevalensi Anemia pada
+Remaja Usia 16-18 Tahun. Window of Health : Jurnal Kesehatan, 4(2), 144–150.
+https://doi.org/10.33096/woh.vi.248
+Dutta, S., Karkada, I. R., Sengupta, P., & Chinni, S. V. (2021). Anthropometric Markers With
+Specific Cut-Offs Can Predict Anemia Occurrence Among Malaysian Young Adults.
+Frontiers in Physiology, 12(September), 1–10.
+https://doi.org/10.3389/fphys.2021.731416
+Efendi, S., & Supinganto, A. (2023). Pencegahan Kesehatan Remaja: Pendidikan Kesehatan
+dan Peran Keluarga di Daerah Pesisir. Bali Medika Jurnal, 10(2), 244–252.
+https://doi.org/10.36376/bmj.v10i2.342
+Harahap, N. R. (2018). Faktor- Faktor Yang Berhubungan Dengan Kejadian Anemia Pada
+Remaja Putri. Nursing Arts, 12(2), 78–90. https://doi.org/10.36741/jna.v12i2.78
+Hasyim, A. N., Mutalazimah, M., & Muwakhidah, M. (2018). Pengetahuan Risiko, Perilaku
+Pencegahan Anemia Dan Kadar Hemoglobin Pada Remaja Putri. Profesi (Profesional
+Islam) : Media Publikasi Penelitian, 15(2), 33. https://doi.org/10.26576/profesi.256
+Helmyati, S., Syarifa, C. A., Rizana, N. A., Sitorus, N. L., & Pratiwi, D. (2023). Acceptance
+of Iron Supplementation Program among Adolescent Girls in Indonesia: A Literature
+Review. AmertaNutrition, 7(3SP), 50–61.
+https://doi.org/10.20473/amnt.v7i3SP.2023.50-61
+Hidayati, I. Z. (2019). Penilaian Uji Validitas Instrumen Skrining Anemia Pada Siswa
+Madrasah Aliyah Islamic Center Baiturahman Banyuwangi. Majalah Kesehatan
+Masyarakat Aceh (MaKMA), 2(3). https://doi.org/10.32672/makma.v2i3.1293
+Hornedo‐González, K. D., Jacob, A. K., Burt, J. M., Higgins, A. A., Engel, E. M., Hanson, A.
+C., Belch, L., Kor, D. J., & Warner, M. A. (2023). Non‐invasive hemoglobin estimation
+for preoperative anemia screening. Transfusion, 63(2), 315–322.
+Indriasari, R., Mansur, M. A., Srifitayani, N. R., & Tasya, A. (2022). Pengetahuan, Sikap, dan
+Tindakan Terkait Pencegahan Anemia Pada Remaja Berlatarbelakang Sosial-ekonomi
+Menengah ke Bawah di Makassar. Amerta Nutrition, 6(3), 256–261.
+https://doi.org/10.20473/amnt.v6i3.2022.256-261
+Izzara, W. A., Yulastri, A., Erianti, Z., Putri, M. Y., & Yuliana, Y. (2023). Penyebab,
+Pencegahan dan Penanggulangan Anemia pada Remaja Putri (Studi Literatur). Jurnal
+48 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+e-ISSN : XXXX-XXXX; p-ISSN : XXXX-XXXX , Hal. 39-50
+Multidisiplin West Science, 2(12), 1051–1064.
+https://doi.org/10.58812/jmws.v2i12.817
+Katsumi, A., Abe, A., Tamura, S., & Matsushita, T. (2021). Anemia in older adults as a geriatric
+syndrome: A review. Geriatrics & Gerontology International, 21(7), 549–554.
+Khan, Z. A., Khail, S. K., Qureshi, A., & Ahmad, P. (2024). The association between maternal
+anemia and preterm birth: A case-control study. Journal of Shifa Tameer-e-Millat
+University, 7(1), 74–80. https://doi.org/10.32593/jstmu/vol7.iss1.318
+Kristanti, M., Nugrohowati, N., Harjono, Y., & Fairuz, N. (2024). Faktor-Faktor Yang
+Mempengaruhi Sikap Remaja Dalam Mengkonsumsi Makanan Cepat Saji Di Kota
+Depok Tahun 2022. Jurnal Ilmu Kesehatan Masyarakat, 13(01), 44–49.
+https://doi.org/10.33221/jikm.v13i01.2411
+Kshatri, J. S., Satpathy, P., Sharma, S., Bhoi, T., Mishra, S. P., & Sahoo, S. S. (2022). Health
+research in the state of Odisha, India: A decadal bibliometric analysis (2011‑2020).
+Journal of Family Medicine and Primary Care, 6(2), 169–170.
+https://doi.org/10.4103/jfmpc.jfmpc
+Kusuma, N. I., & Kartini, F. (2021). Changes in Knowledge and Attitudes in Preventing
+Anemia in Female Adolescents: A Comparative Study. Women, Midwives and
+Midwifery, 1(2), 46–54. https://doi.org/10.36749/wmm.1.2.46-54.2021
+Lin, H., Zhan, B., Shi, X., Feng, D., Tao, S., Wo, M., Fei, X., Wang, W., & Yu, Y. (2024). The
+mean reticulocyte volume is a valuable index in early diagnosis of cancer-related anemia.
+PeerJ, 12, 1–17. https://doi.org/10.7717/peerj.17063
+magdalena tri putri apriyani, margareta rinjani. (n.d.). THE EFFECT OF BSE WITH
+AUDIOVISUAL METHODS ON BSE SKILL FOR TEENAGE GIRLS. 180–188.
+Manandhar, N. (2018). Anemia in Hospitalized Patients: A Cross-Sectional Study on Different
+Erythrocyte Indices and their Relationships. Journal of Health Science Research, 3(1),
+1–10. https://doi.org/10.18311/jhsr/2018/20969
+Mank, I., De Neve, J. W., Mauti, J., Gyengani, G. A., Somé, P. A., Shinde, S., Fawzi, W.,
+Bärnighausen, T., & Vandormael, A. (2022). Prevalence of Obesity and Anemia
+Among Early Adolescents in Junior Secondary Schools: A Cross-Sectional Study in
+Ouagadougou, Burkina Faso. Journal of School Health, 92(11), 1081–1095.
+https://doi.org/10.1111/josh.13233
+Mirani, N., Syahida, A., Khairurrozi, M., & STIKes Bustanul Ulum Langsa, D. (2021). Open
+Access Prevalensi Anemia Defisiensi Besi pada Remaja Putri di Kota Langsa The
+Prevalence of Iron Deficiency Anemia in Young Women in Kota Langsa. The
+Indonesian Journal of Health Promotion, 4(2), 132–137.
+Mohamed Abdallh Ali, R., Ahmed AbdEl-Aziz, N., & Mohamed Sayed, S. (2022). Life Style
+of Female Students Nurses with Iron Deficiency Anemia. Egyptian Journal of Health
+Care, 13(4), 982–996. https://doi.org/10.21608/ejhc.2022.266523
+Mohebi, S., Parham, M., Sharifirad, G., & Gharlipour, Z. (2018). Social Support and Self ‑
+Care Behavior Study. January, 1–6. https://doi.org/10.4103/jehp.jehp
+Nair, A., & Doibale, M. K. (2023). Prevalence of Anemia among Adolescent Girls in Rural
+Area of a District of Maharashtra. Indian Journal of Community Health, 35(1), 21–26.
+https://doi.org/10.47203/IJCH.2023.v35i01.005
+49 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
+Identifikasi Dini Anemia melalui Tanda Klinis dan Pemeriksaan Hemoglobin pada Siswi Remaja
+Prasetya, K. A. H., & Wihandani, D. M. (2019). Hubungan Antara Anemia Dengan Prestasi
+Belajar Pada Siswi Kelas Xi Di Sman I Abiansemal Badung. E-Jurnal Medika Udayana,
+8(1), 46. https://doi.org/10.24922/eum.v8i1.45757
+Report, O. (2019). J ournal of R ehabilitation M edicine. 151(5), 698–704.
+https://doi.org/10.32539/SJM.v7i1.
+Samputri, F. R., & Herdiani, N. (2022). Pengetahuan dan Dukungan Keluarga dengan
+Kepatuhan Konsumsi Tablet Tambah Darah pada Remaja Putri. Media Kesehatan
+Masyarakat Indonesia, 21(1), 69–73. https://doi.org/10.14710/mkmi.21.1.69-73
+Sari, N., & Safriana, R. E. (2023). Literatur Review: Hubungan Pengetahuan Dan Kepatuhan
+Mengkonsumsi Tablet Tambah Darah Dengan Kejadian Anemia Defisiensi Besi Pada
+Remaja Putri. IJMT : Indonesian Journal of Midwifery Today, 2(2), 29.
+https://doi.org/10.30587/ijmt.v2i2.5729
+SKI. (2018). SURVEI KESEHATAN INDONESIA Dalam Angka. Kota Kediri Dalam
+Angka, 1–68.
+Solehati, T., Sari, C. W. M., Lukman, M., & Kosasih, C. E. (2018). Pengaruh Pendidikan
+Kesehatan Terhadap Pengetahuan Deteksi Dini Dan Pencegahan Anemia Dalam Upaya
+Menurunkan Aki Pada Kader Posyandu. Jurnal Keperawatan Komprehensif
+(Comprehensive Nursing Journal), 4(1), 7–12. https://doi.org/10.33755/jkk.v4i1.75
+Tungka, K. E., Nursalam, N., & Fitryasari, R. (2022). Faktor Risiko yang Mempengaruhi
+Perilaku Seksual Pranikah Remaja. Journal of Telenursing (JOTING), 4(2), 781–794.
+https://doi.org/10.31539/joting.v4i2.4115
+WHO. (2021). World Health Statistics.
+Yana, I. G. A. A. K., Wibowo, Y. I., & Sari, G. A. P. L. P. (2023). Tingkat Pengetahuan Remaja
+Putri Terkait Anemia dan Tablet Tambah Darah di Wilayah Denpasar. Indonesian
+Journal of Pharmacy and Natural Product, 06(02), 209–217.
+https://jurnal.unw.ac.id/index.php/ijpnp/article/view/2633
+Young, M. F., Raines, K., Jameel, F., Sidi, M., Oliveira-Streiff, S., Nwajei, P., McGlamry, K.,
+Ou, J., Oladele, A., & Suchdev, P. S. (2021). Non-invasive hemoglobin measurement
+devices require refinement to match diagnostic performance with their high level of
+usability and acceptability. PLoS ONE, 16(7 July), 1–15.
+https://doi.org/10.1371/journal.pone.0254629
+Zaini Miftach. (2022). Pofil Dinas Kesehatan Tahun 2022 (Issue 72).
+50 MURAKES – Volume. 1 Nomor. 1 Juli 2025
+
