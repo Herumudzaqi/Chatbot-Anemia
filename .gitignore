@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Model Files (Terlalu besar untuk GitHub biasa)
+model/
+*.safetensors
+*.bin
+
+# Data (Opsional, jika ingin repo tetap bersih)
+data/pdfs/
+data/raw_text.txt

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skrining Anemia Remaja Putri</title>
+    <!-- Menghubungkan ke file CSS di folder static -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="chat-container">
+        <div class="header">
+            <h2>Asisten Sehat Remaja</h2>
+            <small>Cek Risiko Anemia (Mata & Kuku)</small>
+        </div>
+
+        <div class="chat-box" id="chat-box">
+            <!-- Pesan Pembuka Bot -->
+            <div class="message bot">
+                Halo! Saya asisten skrining awal anemia. <br><br>
+                Bagaimana warna <b>kelopak mata bagian dalam</b> (konjungtiva) dan warna <b>kuku</b> kamu? (Contoh: Pucat / Merah Muda)
+            </div>
+        </div>
+
+        <div class="input-area">
+            <input type="text" id="user-input" placeholder="Ketik gejala di sini..." autocomplete="off">
+            <button onclick="sendMessage()">Kirim</button>
+        </div>
+
+        <div class="disclaimer">
+            Privasi Aman. Chatbot ini bukan pengganti dokter.
+        </div>
+    </div>
+
+    <!-- CODE JAVASCRIPT (LOGIC) ADA DI SINI -->
+    <script>
+        const chatBox = document.getElementById('chat-box');
+        const userInput = document.getElementById('user-input');
+
+        // Agar bisa tekan Enter untuk kirim
+        userInput.addEventListener("keypress", function(event) {
+            if (event.key === "Enter") {
+                sendMessage();
+            }
+        });
+
+        async function sendMessage() {
+            const message = userInput.value.trim();
+            if (message === "") return;
+
+            // 1. Tampilkan pesan User di layar
+            appendMessage(message, 'user');
+            userInput.value = '';
+
+            // 2. Tampilkan Loading sementara
+            const loadingId = appendMessage("Sedang menganalisa...", 'bot');
+
+            try {
+                // 3. Kirim data ke Python (Flask)
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ message: message })
+                });
+
+                const data = await response.json();
+
+                // 4. Hapus loading, ganti dengan jawaban Asli
+                const loadingElement = document.getElementById(loadingId);
+                loadingElement.innerHTML = data.reply; // 'reply' sesuai dengan key di app.py
+
+            } catch (error) {
+                console.error("Error:", error);
+                const loadingElement = document.getElementById(loadingId);
+                loadingElement.innerText = "Maaf, terjadi kesalahan koneksi.";
+            }
+        }
+
+        // Fungsi bantu untuk membuat gelembung chat
+        function appendMessage(text, sender) {
+            const div = document.createElement('div');
+            div.classList.add('message', sender);
+            
+            // Beri ID unik jika itu pesan bot (untuk loading)
+            const msgId = sender === 'bot' ? 'msg-' + Date.now() : null;
+            if (msgId) div.id = msgId;
+
+            div.innerHTML = text;
+            chatBox.appendChild(div);
+            
+            // Auto scroll ke bawah
+            chatBox.scrollTop = chatBox.scrollHeight;
+            
+            return msgId;
+        }
+    </script>
+
+</body>
+</html>
